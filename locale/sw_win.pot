@@ -1,0 +1,4878 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-29 10:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: config.php:8
+msgid "Visitor"
+msgstr ""
+
+#: config.php:9
+msgid "Owner"
+msgstr ""
+
+#: config.php:10
+msgid "Agent"
+msgstr ""
+
+#: config.php:11 widgets/sw_win_listingagency_widget.php:54
+#: widgets/sw_win_listingagency_widget.php:61
+msgid "Agency"
+msgstr ""
+
+#: index.php:236
+msgid "Invoice not paid:"
+msgstr ""
+
+#: index.php:254
+msgid "Recommended PHP version 5.5 or later for best functionality."
+msgstr ""
+
+#: index.php:264
+msgid "plugin not installed:"
+msgstr ""
+
+#: index.php:265
+msgid "Click to install"
+msgstr ""
+
+#: index.php:346
+msgid "Your rank package expire"
+msgstr ""
+
+#: index.php:347
+msgid "Your rank package for listing expire"
+msgstr ""
+
+#: index.php:348
+msgid "Edit your listing and select new package"
+msgstr ""
+
+#: index.php:397 index.php:398
+msgid "Your listing expire"
+msgstr ""
+
+#: index.php:399
+msgid "Edit your listing to resubmit"
+msgstr ""
+
+#: index.php:479
+msgid "Saved search news"
+msgstr ""
+
+#: index.php:481
+msgid "Dear"
+msgstr ""
+
+#: index.php:482
+msgid "Changes found on following listings"
+msgstr ""
+
+#: index.php:591
+msgid "Get Premium Version"
+msgstr ""
+
+#. A unique slug/ID
+#: sw_win_dashwidget.php:32
+msgid "Listings quick preview"
+msgstr ""
+
+#. A unique slug/ID
+#: sw_win_dashwidget.php:166
+msgid "Listings plugin news"
+msgstr ""
+
+#: sw_win_helpers.php:652
+msgid "IMPORTANT, issue with package reactivation"
+msgstr ""
+
+#: sw_win_helpers.php:653
+msgid "Package not found for product ID"
+msgstr ""
+
+#: sw_win_helpers.php:654
+msgid "User ID related"
+msgstr ""
+
+#: sw_win_helpers.php:750 sw_win_helpers.php:811
+#: codeigniter/application/controllers/Packagerank.php:253
+#: codeigniter/application/controllers/Packagerank.php:312
+#: codeigniter/application/controllers/Subscriptions.php:276
+#: codeigniter/application/controllers/Subscriptions.php:335
+msgid "Thanks on your payment"
+msgstr ""
+
+#: sw_win_helpers.php:751 sw_win_helpers.php:812
+msgid "Activated services related to invoice"
+msgstr ""
+
+#: sw_win_options.php:20 sw_win_options.php:251 sw_win_options.php:251
+msgid "Listings"
+msgstr ""
+
+#: sw_win_options.php:29 sw_win_options.php:30 sw_win_options.php:138
+#: sw_win_options.php:139 sw_win_options.php:159 sw_win_options.php:160
+#: sw_win_options.php:180 sw_win_options.php:181 sw_win_options.php:259
+#: sw_win_options.php:260 sw_win_options.php:321 sw_win_options.php:322
+msgid "Manage"
+msgstr ""
+
+#: sw_win_options.php:34 sw_win_options.php:35 sw_win_options.php:264
+#: sw_win_options.php:265
+#: codeigniter/application/views/dashwidgets/listings.php:22
+#: codeigniter/application/views/dashwidgets/listings.php:22
+#: codeigniter/application/views/dashwidgets/listings.php:26
+#: codeigniter/application/views/admin/listing/addlisting.php:4
+#: codeigniter/application/views/agent/listing/addlisting.php:5
+msgid "Add listing"
+msgstr ""
+
+#: sw_win_options.php:39 sw_win_options.php:40
+msgid "Fields"
+msgstr ""
+
+#: sw_win_options.php:44 sw_win_options.php:45
+msgid "Add field"
+msgstr ""
+
+#: sw_win_options.php:49 sw_win_options.php:50
+#: codeigniter/application/models/Listing_m.php:42
+#: codeigniter/application/models/Listing_m.php:56
+#: codeigniter/application/views/admin/treefield/categories.php:2
+msgid "Categories"
+msgstr ""
+
+#: sw_win_options.php:56 sw_win_options.php:57
+#: codeigniter/application/models/Listing_m.php:43
+#: codeigniter/application/models/Listing_m.php:57
+#: codeigniter/application/views/admin/treefield/locations.php:2
+msgid "Locations"
+msgstr ""
+
+#: sw_win_options.php:62 sw_win_options.php:63
+msgid "Search form"
+msgstr ""
+
+#: sw_win_options.php:67 sw_win_options.php:68
+msgid "Result item"
+msgstr ""
+
+#: sw_win_options.php:74 sw_win_options.php:75 sw_win_options.php:271
+#: sw_win_options.php:272
+#: codeigniter/application/views/admin/listing/favorites.php:2
+#: codeigniter/application/views/agent/listing/favorites.php:2
+msgid "Favorites"
+msgstr ""
+
+#: sw_win_options.php:82 sw_win_options.php:83
+#: codeigniter/application/views/frontend/reviews.php:3
+#: codeigniter/application/views/admin/listing/reviews.php:2
+msgid "Reviews"
+msgstr ""
+
+#: sw_win_options.php:88 sw_win_options.php:89 sw_win_options.php:285
+#: sw_win_options.php:286
+#: codeigniter/application/views/admin/listing/messages.php:2
+#: codeigniter/application/views/agent/listing/messages.php:2
+msgid "Messages"
+msgstr ""
+
+#: sw_win_options.php:95 sw_win_options.php:96
+#: codeigniter/application/views/admin/listing/reports.php:2
+msgid "Reports"
+msgstr ""
+
+#: sw_win_options.php:103 sw_win_options.php:104 sw_win_options.php:279
+#: sw_win_options.php:280 widgets/sw_win_primarysearch_widget.php:53
+#: widgets/sw_win_secondarysearch_widget.php:52
+#: codeigniter/application/views/admin/listing/savesearch.php:2
+#: codeigniter/application/views/agent/listing/savesearch.php:2
+msgid "Save Search"
+msgstr ""
+
+#: sw_win_options.php:109 sw_win_options.php:110
+msgid "Settings"
+msgstr ""
+
+#: sw_win_options.php:117 sw_win_options.php:118
+msgid "Go Premium"
+msgstr ""
+
+#: sw_win_options.php:123
+msgid "Currencies"
+msgstr ""
+
+#: sw_win_options.php:131
+msgid "Rank Packages"
+msgstr ""
+
+#: sw_win_options.php:143 sw_win_options.php:144 sw_win_options.php:164
+#: sw_win_options.php:165 sw_win_options.php:305 sw_win_options.php:306
+#: codeigniter/application/views/admin/packagerank/invoices.php:2
+#: codeigniter/application/views/agent/listing/invoices.php:2
+msgid "Invoices"
+msgstr ""
+
+#: sw_win_options.php:152
+#: codeigniter/application/views/agent/listing/subscriptions.php:2
+msgid "Subscriptions"
+msgstr ""
+
+#: sw_win_options.php:173 sw_win_options.php:315 sw_win_options.php:315
+msgid "Calendars"
+msgstr ""
+
+#: sw_win_options.php:185 sw_win_options.php:186 sw_win_options.php:326
+#: sw_win_options.php:327
+msgid "Rates"
+msgstr ""
+
+#: sw_win_options.php:190 sw_win_options.php:191 sw_win_options.php:331
+#: sw_win_options.php:332
+msgid "Reservations"
+msgstr ""
+
+#: sw_win_options.php:198 sw_win_options.php:199
+#: codeigniter/application/views/admin/install/index.php:2
+msgid "Listing install"
+msgstr ""
+
+#: sw_win_options.php:203 sw_win_options.php:204
+msgid "MailChimp"
+msgstr ""
+
+#: sw_win_options.php:209
+msgid "My profile"
+msgstr ""
+
+#: sw_win_options.php:293 sw_win_options.php:294
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:59
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:59
+#: codeigniter/application/views/admin/subscriptions/invoices.php:20
+#: codeigniter/application/views/admin/subscriptions/invoices.php:35
+#: codeigniter/application/views/agent/listing/invoices.php:28
+#: codeigniter/application/views/agent/listing/invoices.php:43
+#: codeigniter/application/views/agent/listing/viewinvoice.php:72
+msgid "Subscription"
+msgstr ""
+
+#: sw_win_options.php:336 sw_win_options.php:337 sw_win_options.php:342
+#: sw_win_options.php:342
+#: codeigniter/application/views/agent/calendars/myreservations.php:2
+msgid "My reservations"
+msgstr ""
+
+#: sw_win_options.php:355 codeigniter/application/models/Install_m.php:432
+msgid "Agent profile"
+msgstr ""
+
+#: sw_win_options.php:362
+msgid "Owner profile"
+msgstr ""
+
+#: sw_win_options.php:369
+msgid "Agency profile"
+msgstr ""
+
+#: sw_win_options.php:488
+msgid "Edit user profile"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:8 vc/sw_win_swagent_vcbakery.php:32
+#: vc/sw_win_swcontact_vcbakery.php:32 vc/sw_win_swlisting_vcbakery.php:32
+#: vc/sw_win_swmap_vcbakery.php:76 vc/sw_win_swprimarysearch_vcbakery.php:32
+#: vc/sw_win_swsecondarysearch_vcbakery.php:32
+msgid "My location"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:11 vc/sw_win_swmap_vcbakery.php:59
+#: vc/sw_win_swmap_vcbakery.php:79
+#: codeigniter/application/helpers/my_helper.php:903
+#: codeigniter/application/views/searchform/WHERE_SEARCH.php:12
+#: codeigniter/application/views/searchform/secondary/SMART_SEARCH.php:12
+#: codeigniter/application/views/searchform/secondary/WHERE_SEARCH.php:12
+msgid "km"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:27 vc/sw_win_swagent_vcbakery.php:33
+#: vc/sw_win_swcontact_vcbakery.php:33 vc/sw_win_swlisting_vcbakery.php:33
+#: vc/sw_win_swmap_vcbakery.php:86 vc/sw_win_swprimarysearch_vcbakery.php:33
+#: vc/sw_win_swsecondarysearch_vcbakery.php:33
+msgid "Distance"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:28 vc/sw_win_swagent_vcbakery.php:34
+#: vc/sw_win_swcontact_vcbakery.php:34 vc/sw_win_swlisting_vcbakery.php:34
+#: vc/sw_win_swmap_vcbakery.php:18 vc/sw_win_swmap_vcbakery.php:87
+#: vc/sw_win_swprimarysearch_vcbakery.php:34
+#: vc/sw_win_swsecondarysearch_vcbakery.php:34
+#: widgets/sw_win_featuredlisting_widget.php:75
+#: widgets/sw_win_latestagents_widget.php:68
+#: widgets/sw_win_latestlisting_widget.php:108
+#: widgets/sw_win_listingagency_widget.php:55
+#: widgets/sw_win_listingagent_widget.php:55
+#: widgets/sw_win_maplisting_widget.php:125
+#: codeigniter/application/models/Listing_m.php:29
+#: codeigniter/application/models/Listing_m.php:48
+#: codeigniter/application/models/Profile_m.php:20
+#: codeigniter/application/views/dashboard/quicksubmission.php:40
+#: codeigniter/application/views/dashboard/quicksubmission.php:42
+#: codeigniter/application/views/frontend/listingpreview.php:289
+#: codeigniter/application/views/admin/listing/addlisting.php:29
+#: codeigniter/application/views/admin/listing/addlisting.php:31
+#: codeigniter/application/views/admin/listing/manage.php:18
+#: codeigniter/application/views/admin/listing/manage.php:36
+#: codeigniter/application/views/agent/listing/addlisting.php:34
+#: codeigniter/application/views/agent/listing/addlisting.php:36
+#: codeigniter/application/views/agent/listing/manage.php:18
+#: codeigniter/application/views/agent/listing/manage.php:36
+msgid "Address"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:29 vc/sw_win_swagent_vcbakery.php:35
+#: vc/sw_win_swcontact_vcbakery.php:35 vc/sw_win_swlisting_vcbakery.php:35
+#: vc/sw_win_swmap_vcbakery.php:88 vc/sw_win_swprimarysearch_vcbakery.php:35
+#: vc/sw_win_swsecondarysearch_vcbakery.php:35
+msgid "Walking time"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:30 vc/sw_win_swagent_vcbakery.php:36
+#: vc/sw_win_swcontact_vcbakery.php:36 vc/sw_win_swlisting_vcbakery.php:36
+#: vc/sw_win_swmap_vcbakery.php:89 vc/sw_win_swprimarysearch_vcbakery.php:36
+#: vc/sw_win_swsecondarysearch_vcbakery.php:36
+msgid "min"
+msgstr ""
+
+#: shortcodes/sw_win_swmap.php:31 vc/sw_win_swagent_vcbakery.php:37
+#: vc/sw_win_swcontact_vcbakery.php:37 vc/sw_win_swlisting_vcbakery.php:37
+#: vc/sw_win_swmap_vcbakery.php:90 vc/sw_win_swprimarysearch_vcbakery.php:37
+#: vc/sw_win_swsecondarysearch_vcbakery.php:37
+#: widgets/sw_win_featuredlisting_widget.php:76
+#: widgets/sw_win_latestagents_widget.php:69
+#: widgets/sw_win_latestlisting_widget.php:109
+#: widgets/sw_win_listingagency_widget.php:56
+#: widgets/sw_win_listingagent_widget.php:56
+#: widgets/sw_win_maplisting_widget.php:126
+#: widgets/sw_win_mortgage_widget.php:51
+#: codeigniter/application/views/frontend/infowindow.php:12
+#: codeigniter/application/views/agent/listing/subscriptions.php:22
+msgid "Details"
+msgstr ""
+
+#: shortcodes/sw_win_swmaplistings.php:12
+#: widgets/sw_win_maplisting_widget.php:110
+msgid "Only one results map is allowed on page"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:8
+msgid "SW Agencies"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:12 vc/sw_win_swagents_vcbakery.php:12
+#: vc/sw_win_swagent_vcbakery.php:12 vc/sw_win_swcontact_vcbakery.php:12
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:12
+#: vc/sw_win_swlistings_vcbakery.php:12 vc/sw_win_swlisting_vcbakery.php:12
+#: vc/sw_win_swmaplistings_vcbakery.php:12 vc/sw_win_swmap_vcbakery.php:12
+#: vc/sw_win_swmap_vcbakery.php:43 vc/sw_win_swprimarysearch_vcbakery.php:12
+#: vc/sw_win_swsecondarysearch_vcbakery.php:12
+msgid "Content"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:14
+msgid "Agencies listing"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:18 vc/sw_win_swagents_vcbakery.php:18
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:18
+#: vc/sw_win_swlistings_vcbakery.php:18 vc/sw_win_swmaplistings_vcbakery.php:18
+msgid "Search criteria"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:20 vc/sw_win_swagents_vcbakery.php:20
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:20
+#: vc/sw_win_swlistings_vcbakery.php:20 vc/sw_win_swmaplistings_vcbakery.php:20
+msgid "You can enter searh criteria"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:24
+msgid "Num agencies"
+msgstr ""
+
+#: vc/sw_win_swagencies_vcbakery.php:26
+msgid "You can enter num agencies limit"
+msgstr ""
+
+#: vc/sw_win_swagents_vcbakery.php:8
+msgid "SW Agents"
+msgstr ""
+
+#: vc/sw_win_swagents_vcbakery.php:14
+msgid "Agents listing"
+msgstr ""
+
+#: vc/sw_win_swagents_vcbakery.php:24
+msgid "Num agents"
+msgstr ""
+
+#: vc/sw_win_swagents_vcbakery.php:26
+msgid "You can enter num agents limit"
+msgstr ""
+
+#: vc/sw_win_swagent_vcbakery.php:8
+msgid "SW Agent"
+msgstr ""
+
+#: vc/sw_win_swagent_vcbakery.php:14
+msgid "Agent details"
+msgstr ""
+
+#: vc/sw_win_swagent_vcbakery.php:18
+msgid "Agent ID"
+msgstr ""
+
+#: vc/sw_win_swagent_vcbakery.php:20
+msgid "You can enter agent ID or slug"
+msgstr ""
+
+#: vc/sw_win_swcontact_vcbakery.php:8
+msgid "SW Contact"
+msgstr ""
+
+#: vc/sw_win_swcontact_vcbakery.php:14
+msgid "Basic contact form"
+msgstr ""
+
+#: vc/sw_win_swcontact_vcbakery.php:18 widgets/sw_win_contactform_widget.php:40
+msgid "Receiver email"
+msgstr ""
+
+#: vc/sw_win_swcontact_vcbakery.php:20
+msgid "You can enter address receiver email"
+msgstr ""
+
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:8
+msgid "SW Featured Listings"
+msgstr ""
+
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:14
+#: widgets/sw_win_featuredlisting_widget.php:12
+#: widgets/sw_win_featuredlisting_widget.php:74
+#: widgets/sw_win_featuredlisting_widget.php:85
+msgid "Featured listings"
+msgstr ""
+
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:24
+#: vc/sw_win_swlistings_vcbakery.php:33 vc/sw_win_swmaplistings_vcbakery.php:24
+msgid "Num listings"
+msgstr ""
+
+#: vc/sw_win_swfeaturedlistings_vcbakery.php:26
+#: vc/sw_win_swlistings_vcbakery.php:35 vc/sw_win_swmaplistings_vcbakery.php:26
+msgid "You can enter num listings limit"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:8
+msgid "SW Listings"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:14
+msgid "listings details"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:24
+msgid "Show features"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:26
+#: widgets/sw_win_latestlisting_widget.php:63
+#: widgets/sw_win_maplisting_widget.php:87
+msgid "Also featured"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:27
+#: widgets/sw_win_latestlisting_widget.php:63
+#: widgets/sw_win_maplisting_widget.php:87
+msgid "Only featured"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:28
+#: widgets/sw_win_latestlisting_widget.php:63
+#: widgets/sw_win_maplisting_widget.php:87
+msgid "No featured"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:29
+msgid "Select featured criteria."
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:39 vc/sw_win_swmaplistings_vcbakery.php:30
+msgid "Agent id"
+msgstr ""
+
+#: vc/sw_win_swlistings_vcbakery.php:41 vc/sw_win_swmaplistings_vcbakery.php:32
+msgid "You can enter user ID or email"
+msgstr ""
+
+#: vc/sw_win_swlisting_vcbakery.php:8
+msgid "SW Listing"
+msgstr ""
+
+#: vc/sw_win_swlisting_vcbakery.php:14
+msgid "Listing details"
+msgstr ""
+
+#: vc/sw_win_swlisting_vcbakery.php:18
+#: codeigniter/application/views/admin/calendars/manage.php:20
+#: codeigniter/application/views/admin/calendars/manage.php:33
+#: codeigniter/application/views/admin/calendars/rates.php:19
+#: codeigniter/application/views/admin/calendars/rates.php:32
+#: codeigniter/application/views/admin/calendars/reservations.php:20
+#: codeigniter/application/views/admin/calendars/reservations.php:34
+#: codeigniter/application/views/admin/listing/favorites.php:18
+#: codeigniter/application/views/admin/listing/favorites.php:30
+#: codeigniter/application/views/admin/listing/messages.php:22
+#: codeigniter/application/views/admin/listing/messages.php:37
+#: codeigniter/application/views/admin/listing/reports.php:22
+#: codeigniter/application/views/admin/listing/reports.php:37
+#: codeigniter/application/views/admin/listing/reviews.php:18
+#: codeigniter/application/views/admin/listing/reviews.php:31
+#: codeigniter/application/views/agent/calendars/manage.php:20
+#: codeigniter/application/views/agent/calendars/manage.php:32
+#: codeigniter/application/views/agent/calendars/myreservations.php:20
+#: codeigniter/application/views/agent/calendars/myreservations.php:33
+#: codeigniter/application/views/agent/calendars/rates.php:19
+#: codeigniter/application/views/agent/calendars/rates.php:32
+#: codeigniter/application/views/agent/calendars/reservations.php:20
+#: codeigniter/application/views/agent/calendars/reservations.php:34
+#: codeigniter/application/views/agent/listing/favorites.php:18
+#: codeigniter/application/views/agent/listing/favorites.php:30
+#: codeigniter/application/views/agent/listing/messages.php:22
+#: codeigniter/application/views/agent/listing/messages.php:37
+msgid "Listing ID"
+msgstr ""
+
+#: vc/sw_win_swlisting_vcbakery.php:20
+msgid "You can enter listing ID or slug"
+msgstr ""
+
+#: vc/sw_win_swmaplistings_vcbakery.php:8
+msgid "SW Map Listings"
+msgstr ""
+
+#: vc/sw_win_swmaplistings_vcbakery.php:14
+msgid "Map with listings (Only one allowed)"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:8
+msgid "SW Map"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:14
+msgid "Basic map"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:20
+msgid "You can enter address or lat/lang bellow"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:24 vc/sw_win_swmap_vcbakery.php:26
+#: codeigniter/application/models/Profile_m.php:18
+#: codeigniter/application/models/Settings_m.php:67
+msgid "Latitude"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:30 vc/sw_win_swmap_vcbakery.php:32
+#: codeigniter/application/models/Profile_m.php:19
+#: codeigniter/application/models/Settings_m.php:68
+msgid "Longitude"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:36 vc/sw_win_swmap_vcbakery.php:39
+msgid "Height (include px)"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:45
+msgid "Wanted description/content on your Location infowindow"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:49
+msgid "Lang code"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:52
+msgid "Google maps language code"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:56
+msgid "Metric"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:60
+msgid "miles"
+msgstr ""
+
+#: vc/sw_win_swmap_vcbakery.php:62
+msgid "Select wanted metrics."
+msgstr ""
+
+#: vc/sw_win_swprimarysearch_vcbakery.php:8
+msgid "SW Primary Search"
+msgstr ""
+
+#: vc/sw_win_swprimarysearch_vcbakery.php:14
+msgid "Primary search form"
+msgstr ""
+
+#: vc/sw_win_swsecondarysearch_vcbakery.php:8
+msgid "SW Secondary Search"
+msgstr ""
+
+#: vc/sw_win_swsecondarysearch_vcbakery.php:14
+msgid "Secondary search form"
+msgstr ""
+
+#: widgets/sw_win_contactform_widget.php:13
+msgid "Display contact form"
+msgstr ""
+
+#: widgets/sw_win_contactform_widget.php:14
+#: widgets/sw_win_contactform_widget.php:65
+#: widgets/sw_win_contactform_widget.php:82
+msgid "Contact form"
+msgstr ""
+
+#: widgets/sw_win_contactform_widget.php:29
+#: widgets/sw_win_featuredlisting_widget.php:27
+#: widgets/sw_win_latestagents_widget.php:27
+#: widgets/sw_win_latestlisting_widget.php:27
+#: widgets/sw_win_listingagency_widget.php:27
+#: widgets/sw_win_listingagent_widget.php:27
+#: widgets/sw_win_maplisting_widget.php:27
+#: widgets/sw_win_mortgage_widget.php:27
+#: widgets/sw_win_primarysearch_widget.php:27
+#: widgets/sw_win_secondarysearch_widget.php:27
+#: codeigniter/application/views/admin/files/edit.php:131
+#: codeigniter/application/views/admin/files/edit.php:133
+msgid "Title"
+msgstr ""
+
+#: widgets/sw_win_contactform_widget.php:66
+#: codeigniter/application/views/frontend/reviews.php:33
+#: codeigniter/application/views/shortcodes/swcontact.php:47
+#: codeigniter/application/views/widgets/contactform.php:198
+#: codeigniter/application/views/admin/listing/editmessage.php:118
+#: codeigniter/application/views/agent/listing/editmessage.php:118
+msgid "Send"
+msgstr ""
+
+#: widgets/sw_win_featuredlisting_widget.php:11
+msgid "Display featured listings"
+msgstr ""
+
+#: widgets/sw_win_featuredlisting_widget.php:38
+#: widgets/sw_win_latestlisting_widget.php:38
+#: widgets/sw_win_maplisting_widget.php:38
+msgid "Text criteria"
+msgstr ""
+
+#: widgets/sw_win_featuredlisting_widget.php:49
+#: widgets/sw_win_latestlisting_widget.php:49
+#: widgets/sw_win_maplisting_widget.php:49
+msgid "Number of listings"
+msgstr ""
+
+#: widgets/sw_win_latestagents_widget.php:11
+msgid "Display latest agents"
+msgstr ""
+
+#: widgets/sw_win_latestagents_widget.php:12
+msgid "Latest agents"
+msgstr ""
+
+#: widgets/sw_win_latestagents_widget.php:38
+msgid "Number of agents"
+msgstr ""
+
+#: widgets/sw_win_latestagents_widget.php:67
+#: widgets/sw_win_latestagents_widget.php:74
+msgid "Latest Agents"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:11
+msgid "Display Latest added listings"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:12
+#: widgets/sw_win_latestlisting_widget.php:107
+#: widgets/sw_win_latestlisting_widget.php:118
+msgid "Latest listings"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:60
+#: widgets/sw_win_maplisting_widget.php:84
+msgid "Show featured"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:76
+msgid "View type"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:79
+msgid "List"
+msgstr ""
+
+#: widgets/sw_win_latestlisting_widget.php:79
+msgid "Grid"
+msgstr ""
+
+#: widgets/sw_win_listingagency_widget.php:11
+msgid "Display listing agency"
+msgstr ""
+
+#: widgets/sw_win_listingagency_widget.php:12
+msgid "Listing agency"
+msgstr ""
+
+#: widgets/sw_win_listingagent_widget.php:11
+msgid "Display listing agents"
+msgstr ""
+
+#: widgets/sw_win_listingagent_widget.php:12
+msgid "Listing agent"
+msgstr ""
+
+#: widgets/sw_win_listingagent_widget.php:54
+#: codeigniter/application/models/Install_m.php:434
+#: codeigniter/application/views/admin/listing/addlisting.php:78
+#: codeigniter/application/views/agent/listing/addlisting.php:69
+msgid "Agents"
+msgstr ""
+
+#: widgets/sw_win_maplisting_widget.php:11
+msgid "Display listings on map"
+msgstr ""
+
+#: widgets/sw_win_maplisting_widget.php:12
+msgid "Listings on map"
+msgstr ""
+
+#: widgets/sw_win_maplisting_widget.php:73
+msgid "Zoom index"
+msgstr ""
+
+#: widgets/sw_win_maplisting_widget.php:124
+#: widgets/sw_win_maplisting_widget.php:131
+msgid "Map listings"
+msgstr ""
+
+#: widgets/sw_win_mortgage_widget.php:11
+msgid "Mortgage Loan calculator"
+msgstr ""
+
+#: widgets/sw_win_mortgage_widget.php:12
+msgid "Mortgage calculator"
+msgstr ""
+
+#: widgets/sw_win_mortgage_widget.php:50 widgets/sw_win_mortgage_widget.php:56
+msgid "Mortgage loan"
+msgstr ""
+
+#: widgets/sw_win_primarysearch_widget.php:11
+msgid "Display primary search form"
+msgstr ""
+
+#: widgets/sw_win_primarysearch_widget.php:12
+#: widgets/sw_win_primarysearch_widget.php:61
+msgid "Primary search"
+msgstr ""
+
+#: widgets/sw_win_primarysearch_widget.php:52
+#: widgets/sw_win_secondarysearch_widget.php:50
+#: codeigniter/application/views/frontend/agencies.php:5
+#: codeigniter/application/views/frontend/agents.php:5
+#: codeigniter/application/views/shortcodes/swprimarysearch.php:9
+#: codeigniter/application/views/shortcodes/swsecondarysearch.php:9
+#: codeigniter/application/views/widgets/primarysearch.php:9
+#: codeigniter/application/views/widgets/secondarysearch.php:9
+#: codeigniter/application/views/admin/calendars/manage.php:127
+#: codeigniter/application/views/admin/calendars/rates.php:116
+#: codeigniter/application/views/admin/calendars/reservations.php:119
+#: codeigniter/application/views/admin/currency/manage.php:119
+#: codeigniter/application/views/admin/listing/favorites.php:113
+#: codeigniter/application/views/admin/listing/manage.php:164
+#: codeigniter/application/views/admin/listing/messages.php:121
+#: codeigniter/application/views/admin/listing/reports.php:121
+#: codeigniter/application/views/admin/listing/reviews.php:115
+#: codeigniter/application/views/admin/listing/savesearch.php:118
+#: codeigniter/application/views/admin/packagerank/invoices.php:121
+#: codeigniter/application/views/admin/packagerank/manage.php:120
+#: codeigniter/application/views/admin/subscriptions/invoices.php:121
+#: codeigniter/application/views/admin/subscriptions/manage.php:120
+#: codeigniter/application/views/agent/calendars/manage.php:124
+#: codeigniter/application/views/agent/calendars/myreservations.php:116
+#: codeigniter/application/views/agent/calendars/rates.php:116
+#: codeigniter/application/views/agent/calendars/reservations.php:119
+#: codeigniter/application/views/agent/listing/favorites.php:113
+#: codeigniter/application/views/agent/listing/invoices.php:128
+#: codeigniter/application/views/agent/listing/manage.php:162
+#: codeigniter/application/views/agent/listing/messages.php:121
+#: codeigniter/application/views/agent/listing/savesearch.php:118
+#: codeigniter/application/views/agent/listing/subscriptions.php:115
+msgid "Search"
+msgstr ""
+
+#: widgets/sw_win_primarysearch_widget.php:54
+#: widgets/sw_win_secondarysearch_widget.php:53
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:55
+msgid "Cancel"
+msgstr ""
+
+#: widgets/sw_win_secondarysearch_widget.php:11
+msgid "Display secondary search form"
+msgstr ""
+
+#: widgets/sw_win_secondarysearch_widget.php:12
+#: widgets/sw_win_secondarysearch_widget.php:60
+msgid "Secondary search"
+msgstr ""
+
+#: widgets/sw_win_secondarysearch_widget.php:51
+msgid "Refresh"
+msgstr ""
+
+#: codeigniter/application/controllers/Api.php:413
+msgid "Listing abuse reported"
+msgstr ""
+
+#: codeigniter/application/controllers/Api.php:414
+msgid "Listing reported as abuse from visitor"
+msgstr ""
+
+#: codeigniter/application/controllers/Api.php:416
+msgid "Details from post:"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:111
+#: codeigniter/application/controllers/Owncalendars.php:115
+#: codeigniter/application/models/Calendar_m.php:21
+#: codeigniter/application/views/admin/calendars/manage.php:39
+#: codeigniter/application/views/agent/calendars/manage.php:38
+msgid "Daily"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:111
+#: codeigniter/application/controllers/Owncalendars.php:115
+#: codeigniter/application/models/Calendar_m.php:21
+#: codeigniter/application/views/admin/calendars/manage.php:39
+#: codeigniter/application/views/agent/calendars/manage.php:38
+msgid "Hourly"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:160
+#: codeigniter/application/controllers/Currency.php:169
+#: codeigniter/application/controllers/Listing.php:243
+#: codeigniter/application/controllers/Owncalendars.php:164
+msgid "Not activated"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:416
+#: codeigniter/application/controllers/Owncalendars.php:426
+msgid "Availability confirmation"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:417
+#: codeigniter/application/controllers/Owncalendars.php:427
+msgid "Your reservation availability is now confirmed"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:418
+#: codeigniter/application/controllers/Owncalendars.php:428
+msgid "Please pay by instructions in dashboard and confirm payment"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:420
+#: codeigniter/application/controllers/Calendars.php:453
+#: codeigniter/application/controllers/Owncalendars.php:430
+#: codeigniter/application/controllers/Owncalendars.php:463
+msgid "Open reservation in dashboard"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:434
+#: codeigniter/application/controllers/Calendars.php:467
+#: codeigniter/application/controllers/Owncalendars.php:444
+#: codeigniter/application/controllers/Owncalendars.php:477
+msgid "Error sending email"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:450
+#: codeigniter/application/controllers/Owncalendars.php:460
+msgid "Reservation confirmation"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:451
+#: codeigniter/application/controllers/Owncalendars.php:461
+msgid "Your reservation payment is now confirmed"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:565
+#: codeigniter/application/controllers/Owncalendars.php:577
+msgid "Not confirmed"
+msgstr ""
+
+#: codeigniter/application/controllers/Calendars.php:597
+#: codeigniter/application/controllers/Packagerank.php:438
+#: codeigniter/application/controllers/Subscriptions.php:461
+msgid ""
+"Rank 0 or expire 0 days can't have price > 0, because will expire immediately"
+msgstr ""
+
+#: codeigniter/application/controllers/Currency.php:40
+msgid "Sync from"
+msgstr ""
+
+#: codeigniter/application/controllers/Currency.php:53
+msgid "Failed loading XML"
+msgstr ""
+
+#: codeigniter/application/controllers/Currency.php:58
+msgid "Loading XML successfully"
+msgstr ""
+
+#: codeigniter/application/controllers/Currency.php:70
+msgid "Updated"
+msgstr ""
+
+#: codeigniter/application/controllers/Currency.php:75
+msgid "Inserted"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:85
+#: codeigniter/application/controllers/Dashboard.php:279
+#: codeigniter/application/controllers/Frontendajax.php:1312
+#: codeigniter/application/controllers/Shortcodes.php:347
+#: codeigniter/application/controllers/Widgets.php:400
+#: codeigniter/application/views/dashboard/quicksubmission.php:279
+msgid "Recaptcha"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:131
+#: codeigniter/application/controllers/Dashboard.php:363
+#: codeigniter/application/controllers/Tokenapi.php:229
+msgid "Welcome to our website!"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:132
+#: codeigniter/application/controllers/Tokenapi.php:230
+msgid "You are now registered to our website"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:146
+msgid "New user on our website!"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:147
+msgid "New user registered on website, please check account"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:283
+#: codeigniter/application/models/Inquiry_m.php:23
+#: codeigniter/application/views/dashboard/quicksubmission.php:32
+#: codeigniter/application/views/dashboard/quicksubmission.php:34
+#: codeigniter/application/views/shortcodes/swcontact.php:14
+#: codeigniter/application/views/shortcodes/swcontact.php:15
+#: codeigniter/application/views/widgets/contactform.php:165
+#: codeigniter/application/views/widgets/contactform.php:166
+msgid "Your email"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:291
+msgid "Agree terms"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:364
+msgid "Thanks on your submission, you are now registered to our website"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:365
+msgid "Your login details"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:366
+#: codeigniter/application/models/User_m.php:21
+#: codeigniter/application/models/User_m.php:27
+#: codeigniter/application/views/dashboard/register.php:24
+#: codeigniter/application/views/dashboard/register.php:59
+#: codeigniter/application/views/dashboard/register.php:60
+msgid "Username"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:367
+#: codeigniter/application/models/User_m.php:22
+#: codeigniter/application/models/User_m.php:28
+#: codeigniter/application/views/dashboard/register.php:27
+#: codeigniter/application/views/dashboard/register.php:28
+#: codeigniter/application/views/dashboard/register.php:63
+#: codeigniter/application/views/dashboard/register.php:64
+msgid "Password"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:402
+#: codeigniter/application/controllers/Ownlisting.php:121
+msgid "Thanks on your submission"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:403
+#: codeigniter/application/controllers/Ownlisting.php:122
+msgid "Admin need to verify your submission to become public visible"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:413
+#: codeigniter/application/controllers/Ownlisting.php:132
+msgid "New non activated property"
+msgstr ""
+
+#: codeigniter/application/controllers/Dashboard.php:414
+#: codeigniter/application/controllers/Ownlisting.php:133
+msgid "Please check and activate new property"
+msgstr ""
+
+#: codeigniter/application/controllers/Files.php:147
+#: codeigniter/application/controllers/Files.php:250
+msgid "Wrong method"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:88
+msgid "Listing not defined"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:109
+#: codeigniter/application/controllers/Frontendajax.php:1275
+#: codeigniter/application/controllers/Shortcodes.php:43
+#: codeigniter/application/controllers/Widgets.php:304
+msgid "Listing not found"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:117
+msgid "Please login to see listing"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:243
+msgid "User not defined"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:413
+msgid "Comparision listings not found"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontend.php:430
+msgid "Min 2 listings are required in comparision list to compare"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:37
+#: codeigniter/application/controllers/Frontendajax.php:144
+#: codeigniter/application/controllers/Frontendajax.php:529
+#: codeigniter/application/controllers/Frontendajax.php:584
+#: codeigniter/application/controllers/Frontendajax.php:817
+#: codeigniter/application/controllers/Frontendajax.php:893
+#: codeigniter/application/controllers/Frontendajax.php:954
+#: codeigniter/application/controllers/Frontendajax.php:1029
+#: codeigniter/application/controllers/Frontendajax.php:1091
+msgid "No message returned!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:408
+msgid "All results"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:410
+msgid "near"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:541
+#: codeigniter/application/controllers/Frontendajax.php:596
+msgid "Please login to use this feature"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:546
+msgid "Favorite already exists!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:558
+msgid "Favorite added!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:604
+msgid "Favorite removed!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:610
+msgid "Favorite doesnt exists!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:829
+msgid "Please login to report!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:834
+msgid "Report already exists!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:842
+msgid "Please populate all fields!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:866
+#: codeigniter/application/views/frontend/listingpreview.php:97
+msgid "Report listing"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:868
+msgid "Report submited!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:907
+msgid "Login required!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:923
+msgid "Search saved!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:929
+msgid "Search already saved!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1034
+msgid "Subscribe API not configured, please contact with administrator"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1061
+msgid "Your e-mail"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1061
+msgid " has been added to our mailing list!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1063
+#: codeigniter/application/controllers/Frontendajax.php:1067
+msgid "There was a problem with your e-mail"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1107
+msgid "Please login for vote"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1112
+msgid "You already voted on this review!"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1119
+msgid "Thanks for your vote"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1162
+msgid "You already logged"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1341
+#: codeigniter/application/controllers/Shortcodes.php:378
+#: codeigniter/application/controllers/Widgets.php:456
+msgid "Regard"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1383
+msgid "Thanks message sent"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendajax.php:1549
+#: codeigniter/application/controllers/Frontendajax.php:1550
+msgid "You received new message"
+msgstr ""
+
+#: codeigniter/application/controllers/Frontendexport.php:38
+msgid "Wrong link"
+msgstr ""
+
+#: codeigniter/application/controllers/Install.php:38
+msgid "PHP 5.5 is required, please update your PHP version"
+msgstr ""
+
+#: codeigniter/application/controllers/Install.php:58
+msgid "Before installation please:"
+msgstr ""
+
+#: codeigniter/application/controllers/Install.php:130
+msgid "Wrong purchase code"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:110
+#: codeigniter/application/controllers/Listing.php:116
+msgid "Listing can`t clone, listing missing"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:248
+#: codeigniter/application/controllers/Ownlisting.php:271
+msgid "Expired"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:466
+#: codeigniter/application/controllers/Listing.php:586
+#: codeigniter/application/controllers/Listing.php:747
+#: codeigniter/application/controllers/Listing.php:945
+#: codeigniter/application/controllers/Listing.php:1111
+#: codeigniter/application/controllers/Listing.php:1277
+#: codeigniter/application/controllers/Ownlisting.php:415
+#: codeigniter/application/controllers/Ownlisting.php:618
+#: codeigniter/application/controllers/Ownlisting.php:1367
+msgid "Function disabled"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:1381
+msgid "So nothing to copy. Default language, should have values"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:1388
+msgid "Max 200 listings for copy"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:1409
+msgid "Something already translated so copy skipped"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:1517
+#: codeigniter/application/models/Listing_m.php:84
+#: codeigniter/application/views/dashboard/quicksubmission.php:129
+#: codeigniter/application/views/dashboard/quicksubmission.php:131
+#: codeigniter/application/views/admin/listing/addlisting.php:223
+#: codeigniter/application/views/admin/listing/addlisting.php:225
+#: codeigniter/application/views/agent/listing/addlisting.php:215
+#: codeigniter/application/views/agent/listing/addlisting.php:217
+msgid "Slug"
+msgstr ""
+
+#: codeigniter/application/controllers/Listing.php:1561
+msgid "Tables updated"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:691
+msgid "Payment confirmation by client"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:702
+msgid "Client want to inform you that payment is completed"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:703
+#: codeigniter/application/controllers/Widgets.php:353
+msgid "Now you should check and confirm reservation"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:706
+#: codeigniter/application/controllers/Widgets.php:362
+#: codeigniter/application/views/admin/calendars/addreservation.php:3
+#: codeigniter/application/views/agent/calendars/addreservation.php:3
+msgid "Edit reservation"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:708
+#: codeigniter/application/controllers/Widgets.php:363
+msgid "Client info"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:822
+msgid "Waiting for confirmation"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:826
+msgid "Waiting for payment"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:830
+msgid "Waiting for payment confirmation"
+msgstr ""
+
+#: codeigniter/application/controllers/Owncalendars.php:834
+#: codeigniter/application/views/agent/calendars/viewreservation.php:41
+msgid "Confirmed reservation"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:700
+#: codeigniter/application/controllers/Ownlisting.php:876
+#: codeigniter/application/views/agent/calendars/myreservations.php:23
+#: codeigniter/application/views/agent/listing/invoices.php:31
+msgid "View"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:967
+#: codeigniter/application/views/agent/listing/viewsubscription.php:189
+msgid ""
+"You are subscribed for other subscription package, because of that you are "
+"not able to purchase this one until current expire"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:1197
+msgid "New invoice payment"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:1198
+msgid "Please check if invoice is paid and activate services"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:1199
+msgid "Link to edit invoice"
+msgstr ""
+
+#: codeigniter/application/controllers/Ownlisting.php:1380
+msgid "Wrong invoice ID"
+msgstr ""
+
+#: codeigniter/application/controllers/Packagerank.php:190
+#: codeigniter/application/controllers/Subscriptions.php:213
+msgid "Adding not supported"
+msgstr ""
+
+#: codeigniter/application/controllers/Packagerank.php:254
+#: codeigniter/application/controllers/Packagerank.php:313
+#: codeigniter/application/controllers/Subscriptions.php:277
+#: codeigniter/application/controllers/Subscriptions.php:336
+msgid "Admin activated services related to invoice"
+msgstr ""
+
+#: codeigniter/application/controllers/Shortcodes.php:29
+msgid "Please define listing id"
+msgstr ""
+
+#: codeigniter/application/controllers/Shortcodes.php:185
+msgid "Please define agent id"
+msgstr ""
+
+#: codeigniter/application/controllers/Shortcodes.php:201
+msgid "Agent not found"
+msgstr ""
+
+#: codeigniter/application/controllers/Treefield.php:169
+msgid "Multi insert failed"
+msgstr ""
+
+#: codeigniter/application/controllers/Treefield.php:472
+msgid "Must accept checkbox. Current map will be replaced with new one"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:350
+#: codeigniter/application/controllers/Widgets.php:370
+msgid "Client want to reserve listing #"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:351
+#: codeigniter/application/controllers/Widgets.php:371
+msgid "Date from:"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:352
+msgid "Date to:"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:372
+msgid "Date to: NOT DEFINED"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:407
+#: codeigniter/application/models/Inquiry_m.php:26
+#: codeigniter/application/models/Myreservation_m.php:21
+#: codeigniter/application/models/Rates_m.php:20
+#: codeigniter/application/models/Reservation_m.php:21
+#: codeigniter/application/views/frontend/listingpreview.php:231
+#: codeigniter/application/views/searchform/C_BOOKING.php:38
+#: codeigniter/application/views/searchform/C_BOOKING.php:40
+#: codeigniter/application/views/widgets/contactform.php:45
+#: codeigniter/application/views/widgets/contactform.php:47
+#: codeigniter/application/views/agent/calendars/viewreservation.php:69
+msgid "Date to"
+msgstr ""
+
+#: codeigniter/application/controllers/Widgets.php:453
+#: codeigniter/application/views/agent/listing/addlisting.php:176
+msgid "Open listing"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:106
+msgid "Default package not set, you don't have activated package"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:130
+#: codeigniter/application/core/MY_Controller.php:145
+msgid "Default subscription not set, you don't have activated subscription"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:159
+msgid "Your subscription expired, "
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:159
+msgid "please extend"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:176
+msgid "Purchase larger subscription, you exceed listings limitation"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:176
+msgid "manage subscription"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:211
+#: codeigniter/application/views/frontend/agenciesresults.php:9
+msgid "Agency not found"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:231
+#: codeigniter/application/core/MY_Controller.php:256
+msgid "Values number must be same in all languages"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:275
+msgid "Robot verification failed"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:297
+msgid "Calendar for this listing already defined"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:313
+msgid "Listing ID must be numeric value"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:325
+msgid "Calendar for this listing missing, add first"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:352
+#: codeigniter/application/core/MY_Controller.php:401
+msgid "Date from to old"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:358
+#: codeigniter/application/core/MY_Controller.php:407
+msgid "Date FROM should be before Date TO"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:366
+msgid "Date already defined or overlaped"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:413
+msgid "Reservation time below 1h is not possible"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:423
+msgid "Rates not defined in this period"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:431
+#: codeigniter/application/models/Rates_m.php:27
+msgid "Monday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:432
+#: codeigniter/application/models/Rates_m.php:28
+msgid "Tuesday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:432
+#: codeigniter/application/models/Rates_m.php:28
+msgid "Wednesday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:433
+#: codeigniter/application/models/Rates_m.php:29
+msgid "Thursday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:433
+#: codeigniter/application/models/Rates_m.php:29
+msgid "Friday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:434
+#: codeigniter/application/models/Rates_m.php:30
+msgid "Saturday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:434
+#: codeigniter/application/models/Rates_m.php:30
+msgid "Sunday"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:442
+msgid "Wrong from changeover day, must be: "
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:453
+msgid "Period is to short, min days: "
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:465
+msgid "Already reserved and confirmed"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:490
+#: codeigniter/application/core/MY_Controller.php:511
+msgid "already exists in database"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:522
+msgid "Disable in demo"
+msgstr ""
+
+#: codeigniter/application/core/MY_Controller.php:538
+msgid "Min one image should be exists, please upload some images"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:361
+msgid "Nothing selected"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:463
+msgid "Add"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:481
+msgid "Restore"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:486
+msgid "Confirm"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:994
+#: codeigniter/application/helpers/MY_form_helper.php:1086
+msgid "Search term"
+msgstr ""
+
+#: codeigniter/application/helpers/MY_form_helper.php:995
+#: codeigniter/application/helpers/MY_form_helper.php:1087
+msgid "No results found"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:16
+#: codeigniter/application/views/dashwidgets/listings.php:50
+#: codeigniter/application/views/dashwidgets/listings.php:50
+#: codeigniter/application/views/admin/calendars/manage.php:23
+#: codeigniter/application/views/admin/calendars/rates.php:22
+#: codeigniter/application/views/admin/calendars/reservations.php:23
+#: codeigniter/application/views/admin/currency/manage.php:24
+#: codeigniter/application/views/admin/listing/manage.php:26
+#: codeigniter/application/views/admin/listing/messages.php:23
+#: codeigniter/application/views/admin/listing/reports.php:23
+#: codeigniter/application/views/admin/listing/reviews.php:21
+#: codeigniter/application/views/admin/listing/savesearch.php:22
+#: codeigniter/application/views/admin/packagerank/invoices.php:23
+#: codeigniter/application/views/admin/packagerank/manage.php:24
+#: codeigniter/application/views/admin/subscriptions/invoices.php:23
+#: codeigniter/application/views/admin/subscriptions/manage.php:24
+#: codeigniter/application/views/admin/treefield/categories.php:21
+#: codeigniter/application/views/admin/treefield/locations.php:25
+#: codeigniter/application/views/agent/calendars/manage.php:23
+#: codeigniter/application/views/agent/calendars/rates.php:22
+#: codeigniter/application/views/agent/calendars/reservations.php:23
+#: codeigniter/application/views/agent/listing/manage.php:26
+#: codeigniter/application/views/agent/listing/messages.php:23
+#: codeigniter/application/views/agent/listing/savesearch.php:22
+msgid "Edit"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:24
+msgid "Read"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:35
+#: codeigniter/application/views/admin/listing/favorites.php:20
+#: codeigniter/application/views/agent/listing/favorites.php:20
+msgid "Open"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:43
+#: codeigniter/application/helpers/my_helper.php:51
+#: codeigniter/application/views/admin/calendars/manage.php:24
+#: codeigniter/application/views/admin/calendars/rates.php:23
+#: codeigniter/application/views/admin/calendars/reservations.php:24
+#: codeigniter/application/views/admin/currency/manage.php:25
+#: codeigniter/application/views/admin/listing/favorites.php:21
+#: codeigniter/application/views/admin/listing/manage.php:27
+#: codeigniter/application/views/admin/listing/messages.php:24
+#: codeigniter/application/views/admin/listing/reports.php:24
+#: codeigniter/application/views/admin/listing/reviews.php:22
+#: codeigniter/application/views/admin/listing/savesearch.php:23
+#: codeigniter/application/views/admin/packagerank/invoices.php:24
+#: codeigniter/application/views/admin/packagerank/manage.php:25
+#: codeigniter/application/views/admin/subscriptions/invoices.php:24
+#: codeigniter/application/views/admin/subscriptions/manage.php:25
+#: codeigniter/application/views/admin/treefield/categories.php:22
+#: codeigniter/application/views/admin/treefield/locations.php:26
+#: codeigniter/application/views/agent/calendars/rates.php:23
+#: codeigniter/application/views/agent/calendars/reservations.php:24
+#: codeigniter/application/views/agent/listing/favorites.php:21
+#: codeigniter/application/views/agent/listing/manage.php:27
+#: codeigniter/application/views/agent/listing/messages.php:24
+#: codeigniter/application/views/agent/listing/savesearch.php:23
+msgid "Delete"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:51
+#: codeigniter/application/helpers/my_helper.php:557
+#: codeigniter/application/views/admin/calendars/manage.php:88
+#: codeigniter/application/views/admin/calendars/rates.php:77
+#: codeigniter/application/views/admin/calendars/reservations.php:79
+#: codeigniter/application/views/admin/currency/manage.php:80
+#: codeigniter/application/views/admin/listing/editreport.php:90
+#: codeigniter/application/views/admin/listing/favorites.php:74
+#: codeigniter/application/views/admin/listing/manage.php:120
+#: codeigniter/application/views/admin/listing/messages.php:80
+#: codeigniter/application/views/admin/listing/reports.php:80
+#: codeigniter/application/views/admin/listing/reviews.php:76
+#: codeigniter/application/views/admin/listing/savesearch.php:78
+#: codeigniter/application/views/admin/listing/settings.php:55
+#: codeigniter/application/views/admin/listing/settings.php:56
+#: codeigniter/application/views/admin/listing/settings.php:60
+#: codeigniter/application/views/admin/packagerank/invoices.php:80
+#: codeigniter/application/views/admin/packagerank/manage.php:80
+#: codeigniter/application/views/admin/subscriptions/invoices.php:80
+#: codeigniter/application/views/admin/subscriptions/manage.php:80
+#: codeigniter/application/views/agent/calendars/manage.php:86
+#: codeigniter/application/views/agent/calendars/myreservations.php:77
+#: codeigniter/application/views/agent/calendars/rates.php:77
+#: codeigniter/application/views/agent/calendars/reservations.php:79
+#: codeigniter/application/views/agent/listing/favorites.php:74
+#: codeigniter/application/views/agent/listing/invoices.php:87
+#: codeigniter/application/views/agent/listing/manage.php:118
+#: codeigniter/application/views/agent/listing/messages.php:80
+#: codeigniter/application/views/agent/listing/savesearch.php:78
+#: codeigniter/application/views/agent/listing/subscriptions.php:76
+msgid "Are you sure?"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:557
+#: codeigniter/application/views/shortcodes/swmaplistings.php:214
+#: codeigniter/application/views/widgets/maplistings.php:212
+msgid "Loading..."
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:615
+#: codeigniter/application/views/admin/listing/addlisting.php:16
+#: codeigniter/application/views/agent/listing/addlisting.php:22
+msgid "Changes saved"
+msgstr ""
+
+#: codeigniter/application/helpers/my_helper.php:622
+msgid "Failed from unknown reason"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:41
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:42
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:43
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:44
+msgid "No file was uploaded"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:45
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:46
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:47
+msgid "A PHP extension stopped the file upload"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:48
+msgid "The uploaded file exceeds the post_max_size directive in php.ini"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:49
+msgid "File is too big"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:50
+msgid "File is too small"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:51
+msgid "Filetype not allowed"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:52
+msgid "Maximum number of files exceeded"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:53
+msgid "Image exceeds maximum width"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:54
+msgid "Image requires a minimum width"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:55
+msgid "Image exceeds maximum height"
+msgstr ""
+
+#: codeigniter/application/libraries/UploadHandler.php:56
+msgid "Image requires a minimum height"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:18
+#: codeigniter/application/models/Invoice_m.php:24
+#: codeigniter/application/models/Myreservation_m.php:18
+#: codeigniter/application/models/Report_m.php:19
+#: codeigniter/application/models/Reservation_m.php:18
+#: codeigniter/application/models/Review_m.php:20
+#: codeigniter/application/views/admin/calendars/reservations.php:19
+#: codeigniter/application/views/admin/calendars/reservations.php:33
+#: codeigniter/application/views/admin/listing/editreview.php:28
+#: codeigniter/application/views/admin/listing/editreview.php:30
+#: codeigniter/application/views/admin/listing/editsavesearch.php:21
+#: codeigniter/application/views/admin/listing/editsavesearch.php:23
+#: codeigniter/application/views/admin/listing/savesearch.php:18
+#: codeigniter/application/views/admin/listing/savesearch.php:32
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:45
+#: codeigniter/application/views/admin/packagerank/invoices.php:19
+#: codeigniter/application/views/admin/packagerank/invoices.php:34
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:45
+#: codeigniter/application/views/admin/subscriptions/invoices.php:19
+#: codeigniter/application/views/admin/subscriptions/invoices.php:34
+#: codeigniter/application/views/agent/calendars/myreservations.php:19
+#: codeigniter/application/views/agent/calendars/myreservations.php:32
+#: codeigniter/application/views/agent/calendars/reservations.php:19
+#: codeigniter/application/views/agent/calendars/reservations.php:33
+#: codeigniter/application/views/agent/calendars/viewreservation.php:76
+#: codeigniter/application/views/agent/listing/bankpayment.php:49
+#: codeigniter/application/views/agent/listing/editsavesearch.php:21
+#: codeigniter/application/views/agent/listing/editsavesearch.php:23
+#: codeigniter/application/views/agent/listing/invoices.php:26
+#: codeigniter/application/views/agent/listing/invoices.php:41
+#: codeigniter/application/views/agent/listing/savesearch.php:18
+#: codeigniter/application/views/agent/listing/savesearch.php:32
+#: codeigniter/application/views/agent/listing/viewinvoice.php:58
+msgid "User"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:19
+#: codeigniter/application/models/Invoice_m.php:25
+#: codeigniter/application/models/Invoice_m.php:26
+#: codeigniter/application/models/Myreservation_m.php:19
+#: codeigniter/application/models/Rates_m.php:18
+#: codeigniter/application/models/Report_m.php:18
+#: codeigniter/application/models/Reservation_m.php:19
+#: codeigniter/application/models/Review_m.php:19
+#: codeigniter/application/views/admin/listing/editmessage.php:21
+#: codeigniter/application/views/admin/listing/editmessage.php:23
+#: codeigniter/application/views/admin/listing/editreport.php:21
+#: codeigniter/application/views/admin/listing/editreport.php:23
+#: codeigniter/application/views/admin/listing/editreview.php:21
+#: codeigniter/application/views/admin/listing/editreview.php:23
+#: codeigniter/application/views/admin/listing/manage.php:19
+#: codeigniter/application/views/admin/listing/manage.php:37
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:52
+#: codeigniter/application/views/admin/packagerank/invoices.php:20
+#: codeigniter/application/views/admin/packagerank/invoices.php:35
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:52
+#: codeigniter/application/views/agent/calendars/viewreservation.php:83
+#: codeigniter/application/views/agent/listing/bankpayment.php:56
+#: codeigniter/application/views/agent/listing/editmessage.php:21
+#: codeigniter/application/views/agent/listing/editmessage.php:23
+#: codeigniter/application/views/agent/listing/invoices.php:27
+#: codeigniter/application/views/agent/listing/invoices.php:42
+#: codeigniter/application/views/agent/listing/manage.php:19
+#: codeigniter/application/views/agent/listing/manage.php:37
+#: codeigniter/application/views/agent/listing/viewinvoice.php:65
+msgid "Listing"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:20
+msgid "Calendar Title"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:21
+msgid "Calendar Type"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:22
+#: codeigniter/application/models/Currency_m.php:21
+#: codeigniter/application/models/Invoice_m.php:27
+#: codeigniter/application/models/Listing_m.php:39
+#: codeigniter/application/models/Savesearch_m.php:18
+#: codeigniter/application/views/admin/currency/addcurrency.php:45
+#: codeigniter/application/views/admin/listing/addlisting.php:111
+#: codeigniter/application/views/admin/listing/editsavesearch.php:63
+#: codeigniter/application/views/admin/listing/savesearch.php:20
+#: codeigniter/application/views/admin/listing/savesearch.php:34
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:66
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:66
+#: codeigniter/application/views/agent/listing/addlisting.php:97
+#: codeigniter/application/views/agent/listing/editsavesearch.php:63
+#: codeigniter/application/views/agent/listing/savesearch.php:20
+#: codeigniter/application/views/agent/listing/savesearch.php:34
+msgid "Is activated"
+msgstr ""
+
+#: codeigniter/application/models/Calendar_m.php:23
+#: codeigniter/application/views/agent/calendars/viewreservation.php:160
+msgid "Payment instruction details"
+msgstr ""
+
+#: codeigniter/application/models/Currency_m.php:18
+#: codeigniter/application/models/Favorite_m.php:18
+#: codeigniter/application/models/Invoice_m.php:31
+#: codeigniter/application/models/Packagerank_m.php:18
+#: codeigniter/application/models/Subscriptions_m.php:18
+#: codeigniter/application/views/admin/currency/addcurrency.php:24
+#: codeigniter/application/views/admin/currency/addcurrency.php:26
+#: codeigniter/application/views/admin/currency/manage.php:22
+#: codeigniter/application/views/admin/currency/manage.php:35
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:94
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:96
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:52
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:54
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:94
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:96
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:92
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:94
+#: codeigniter/application/views/agent/calendars/viewreservation.php:111
+#: codeigniter/application/views/agent/listing/bankpayment.php:86
+#: codeigniter/application/views/agent/listing/viewinvoice.php:102
+#: codeigniter/application/views/agent/listing/viewsubscription.php:103
+msgid "Currency code"
+msgstr ""
+
+#: codeigniter/application/models/Currency_m.php:19
+#: codeigniter/application/views/admin/currency/addcurrency.php:38
+#: codeigniter/application/views/admin/currency/addcurrency.php:40
+#: codeigniter/application/views/admin/currency/manage.php:23
+#: codeigniter/application/views/admin/currency/manage.php:36
+msgid "Rate index"
+msgstr ""
+
+#: codeigniter/application/models/Currency_m.php:20
+#: codeigniter/application/views/admin/currency/addcurrency.php:31
+#: codeigniter/application/views/admin/currency/addcurrency.php:33
+#: codeigniter/application/views/admin/currency/manage.php:21
+#: codeigniter/application/views/admin/currency/manage.php:34
+msgid "Currency symbol"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:23
+#: codeigniter/application/models/Searchform_m.php:19
+#: codeigniter/application/views/admin/calendars/manage.php:22
+#: codeigniter/application/views/admin/listing/addfield.php:21
+#: codeigniter/application/views/admin/listing/resultitem.php:23
+#: codeigniter/application/views/admin/listing/resultitem.php:25
+#: codeigniter/application/views/admin/listing/searchform.php:23
+#: codeigniter/application/views/admin/listing/searchform.php:25
+#: codeigniter/application/views/agent/calendars/manage.php:22
+msgid "Type"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:24
+#: codeigniter/application/models/Treefield_m.php:17
+#: codeigniter/application/views/admin/listing/addfield.php:28
+#: codeigniter/application/views/admin/treefield/addvalue.php:21
+#: codeigniter/application/views/admin/treefield/categories.php:19
+#: codeigniter/application/views/admin/treefield/locations.php:23
+msgid "Parent"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:25
+#: codeigniter/application/views/admin/listing/addfield.php:35
+msgid "Visible in table"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:26
+#: codeigniter/application/views/admin/listing/addfield.php:42
+msgid "Visible on listing preview"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:27
+msgid "Visible in frontend"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:28
+#: codeigniter/application/views/admin/listing/addfield.php:70
+msgid "Is required"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:29
+#: codeigniter/application/views/admin/listing/addfield.php:78
+msgid "Is locked"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:30
+#: codeigniter/application/views/admin/listing/addfield.php:63
+msgid "Is translatable"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:31
+#: codeigniter/application/views/admin/listing/addfield.php:56
+msgid "Visible on quick submission"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:32
+msgid "Multiple column"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:33
+#: codeigniter/application/views/admin/listing/addfield.php:85
+#: codeigniter/application/views/admin/listing/addfield.php:87
+msgid "Max length"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:34
+#: codeigniter/application/views/admin/listing/addfield.php:93
+msgid "Make searchable"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:35
+msgid "Field image"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:38
+msgid "Select type"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:38
+#: codeigniter/application/views/admin/listing/searchform.php:71
+msgid "CATEGORY"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:38
+msgid "CHECKBOX"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:38
+msgid "INPUTBOX"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:39
+msgid "DROPDOWN"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:39
+msgid "TEXTAREA"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:40
+msgid "INTEGER"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:40
+msgid "DROPDOWN_MULTIPLE"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:40
+msgid "TABLE"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:40
+msgid "DATETIME"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:42
+msgid "Select columns"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:51
+msgid "Values"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:52
+#: codeigniter/application/views/admin/listing/addfield.php:200
+#: codeigniter/application/views/admin/listing/addfield.php:202
+msgid "Suffix"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:53
+#: codeigniter/application/views/admin/listing/addfield.php:193
+#: codeigniter/application/views/admin/listing/addfield.php:195
+msgid "Prefix"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:54
+#: codeigniter/application/views/admin/listing/addfield.php:179
+#: codeigniter/application/views/admin/listing/addfield.php:181
+msgid "Field name"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:55
+#: codeigniter/application/views/admin/listing/addfield.php:207
+#: codeigniter/application/views/admin/listing/addfield.php:209
+msgid "Hint"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:56
+#: codeigniter/application/views/admin/listing/addfield.php:214
+#: codeigniter/application/views/admin/listing/addfield.php:216
+msgid "Placeholder"
+msgstr ""
+
+#: codeigniter/application/models/Field_m.php:216
+msgid "No parent"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:19
+#: codeigniter/application/models/Report_m.php:20
+#: codeigniter/application/views/shortcodes/swcontact.php:7
+#: codeigniter/application/views/shortcodes/swcontact.php:8
+#: codeigniter/application/views/widgets/contactform.php:158
+#: codeigniter/application/views/widgets/contactform.php:159
+#: codeigniter/application/views/admin/listing/editreport.php:35
+msgid "Full name"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:20
+msgid "Widget id"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:21
+#: codeigniter/application/models/Profile_m.php:25
+#: codeigniter/application/views/shortcodes/swcontact.php:23
+#: codeigniter/application/views/shortcodes/swcontact.php:24
+#: codeigniter/application/views/widgets/contactform.php:174
+#: codeigniter/application/views/widgets/contactform.php:175
+msgid "Phone number"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:22
+#: codeigniter/application/views/shortcodes/swcontact.php:30
+#: codeigniter/application/views/shortcodes/swcontact.php:31
+#: codeigniter/application/views/widgets/contactform.php:181
+#: codeigniter/application/views/widgets/contactform.php:182
+msgid "Subject"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:24
+#: codeigniter/application/models/Report_m.php:23
+#: codeigniter/application/models/Review_m.php:22
+#: codeigniter/application/models/Review_m.php:31
+#: codeigniter/application/views/frontend/reviews.php:24
+#: codeigniter/application/views/frontend/reviews.php:26
+#: codeigniter/application/views/shortcodes/swcontact.php:38
+#: codeigniter/application/views/widgets/contactform.php:189
+#: codeigniter/application/views/admin/listing/editmessage.php:56
+#: codeigniter/application/views/admin/listing/editmessage.php:58
+#: codeigniter/application/views/admin/listing/editmessage.php:115
+#: codeigniter/application/views/admin/listing/editreport.php:56
+#: codeigniter/application/views/admin/listing/editreport.php:58
+#: codeigniter/application/views/admin/listing/editreview.php:49
+#: codeigniter/application/views/admin/listing/editreview.php:51
+#: codeigniter/application/views/admin/listing/messages.php:21
+#: codeigniter/application/views/admin/listing/messages.php:36
+#: codeigniter/application/views/admin/listing/reports.php:21
+#: codeigniter/application/views/admin/listing/reports.php:36
+#: codeigniter/application/views/agent/listing/editmessage.php:56
+#: codeigniter/application/views/agent/listing/editmessage.php:58
+#: codeigniter/application/views/agent/listing/editmessage.php:115
+#: codeigniter/application/views/agent/listing/messages.php:21
+#: codeigniter/application/views/agent/listing/messages.php:36
+msgid "Message"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:25
+#: codeigniter/application/models/Myreservation_m.php:20
+#: codeigniter/application/models/Rates_m.php:19
+#: codeigniter/application/models/Reservation_m.php:20
+#: codeigniter/application/views/frontend/listingpreview.php:230
+#: codeigniter/application/views/searchform/C_BOOKING.php:26
+#: codeigniter/application/views/searchform/C_BOOKING.php:28
+#: codeigniter/application/views/widgets/contactform.php:33
+#: codeigniter/application/views/widgets/contactform.php:35
+#: codeigniter/application/views/agent/calendars/viewreservation.php:62
+msgid "Date from"
+msgstr ""
+
+#: codeigniter/application/models/Inquiry_m.php:30
+#: codeigniter/application/models/Messages_m.php:36
+#: codeigniter/application/views/admin/listing/editmessage.php:63
+#: codeigniter/application/views/agent/listing/editmessage.php:63
+msgid "Read by receiver"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:17
+msgid "Install required tables"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:18
+msgid "Remove existing widget"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:19
+msgid "Install menu and widgets"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:20
+msgid "Install demo listings"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:21
+msgid "Update plugin database"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:35
+msgid "Plugin"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:36
+#: codeigniter/application/models/Treefield_m.php:28
+#: codeigniter/application/views/admin/files/edit.php:124
+#: codeigniter/application/views/admin/files/edit.php:126
+#: codeigniter/application/views/admin/treefield/addvalue.php:218
+#: codeigniter/application/views/admin/treefield/addvalue.php:220
+msgid "Description"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:59
+msgid "Switch to compatible theme"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:64
+msgid "Activate compatible plugins"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:90
+msgid "Portal version"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:95
+#: codeigniter/application/models/Install_m.php:104
+msgid "Inform me about updates and news to email"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:98
+#: codeigniter/application/models/Settings_m.php:91
+msgid "Purchase code"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:100
+msgid "Guide to find purchase code"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:275
+msgid "Tables already exists"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:424
+msgid "Register / Login"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:426
+#: codeigniter/application/models/Settings_m.php:69
+msgid "Results page"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:428
+msgid "Listing preview"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:430
+msgid "Listing tags"
+msgstr ""
+
+#: codeigniter/application/models/Install_m.php:439
+#: codeigniter/application/models/Settings_m.php:76
+msgid "Quick submission"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:21
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:24
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:26
+#: codeigniter/application/views/admin/packagerank/invoices.php:18
+#: codeigniter/application/views/admin/packagerank/invoices.php:33
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:24
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:26
+#: codeigniter/application/views/admin/subscriptions/invoices.php:18
+#: codeigniter/application/views/admin/subscriptions/invoices.php:33
+#: codeigniter/application/views/agent/listing/bankpayment.php:28
+#: codeigniter/application/views/agent/listing/invoices.php:25
+#: codeigniter/application/views/agent/listing/invoices.php:40
+#: codeigniter/application/views/agent/listing/viewinvoice.php:37
+msgid "Num"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:22
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:31
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:33
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:31
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:33
+#: codeigniter/application/views/agent/listing/bankpayment.php:35
+#: codeigniter/application/views/agent/listing/viewinvoice.php:44
+msgid "Date created"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:23
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:38
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:40
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:38
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:40
+#: codeigniter/application/views/agent/listing/bankpayment.php:42
+#: codeigniter/application/views/agent/listing/viewinvoice.php:51
+msgid "Date paid"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:28
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:73
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:73
+msgid "Is disabled"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:29
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:80
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:82
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:80
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:82
+#: codeigniter/application/views/agent/listing/bankpayment.php:72
+#: codeigniter/application/views/agent/listing/viewinvoice.php:88
+msgid "VAT percentage"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:30
+#: codeigniter/application/models/Packagerank_m.php:22
+#: codeigniter/application/models/Subscriptions_m.php:22
+#: codeigniter/application/views/dashboard/quicksubmission.php:254
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:87
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:89
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:45
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:47
+#: codeigniter/application/views/admin/packagerank/invoices.php:21
+#: codeigniter/application/views/admin/packagerank/invoices.php:36
+#: codeigniter/application/views/admin/packagerank/manage.php:23
+#: codeigniter/application/views/admin/packagerank/manage.php:37
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:87
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:89
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:85
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:87
+#: codeigniter/application/views/admin/subscriptions/invoices.php:21
+#: codeigniter/application/views/admin/subscriptions/invoices.php:36
+#: codeigniter/application/views/admin/subscriptions/manage.php:23
+#: codeigniter/application/views/admin/subscriptions/manage.php:37
+#: codeigniter/application/views/agent/calendars/viewreservation.php:97
+#: codeigniter/application/views/agent/listing/addlisting.php:419
+#: codeigniter/application/views/agent/listing/bankpayment.php:79
+#: codeigniter/application/views/agent/listing/invoices.php:29
+#: codeigniter/application/views/agent/listing/invoices.php:44
+#: codeigniter/application/views/agent/listing/subscriptions.php:21
+#: codeigniter/application/views/agent/listing/subscriptions.php:34
+#: codeigniter/application/views/agent/listing/viewinvoice.php:95
+#: codeigniter/application/views/agent/listing/viewsubscription.php:96
+msgid "Price"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:32
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:101
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:101
+#: codeigniter/application/views/agent/listing/bankpayment.php:93
+#: codeigniter/application/views/agent/listing/viewinvoice.php:109
+msgid "Paid via"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:33
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:108
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:110
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:108
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:110
+#: codeigniter/application/views/agent/listing/bankpayment.php:100
+#: codeigniter/application/views/agent/listing/viewinvoice.php:116
+msgid "Company details"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:34
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:115
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:117
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:115
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:117
+#: codeigniter/application/views/agent/listing/bankpayment.php:107
+#: codeigniter/application/views/agent/listing/viewinvoice.php:123
+msgid "Note"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:37
+msgid "Not paid"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:37
+msgid "Manual"
+msgstr ""
+
+#: codeigniter/application/models/Invoice_m.php:37
+#: codeigniter/application/views/agent/listing/viewinvoice.php:163
+msgid "PayPal"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:28
+#: codeigniter/application/models/Listing_m.php:47
+#: codeigniter/application/views/dashboard/quicksubmission.php:62
+#: codeigniter/application/views/dashboard/quicksubmission.php:64
+#: codeigniter/application/views/admin/listing/addlisting.php:57
+#: codeigniter/application/views/admin/listing/addlisting.php:59
+#: codeigniter/application/views/agent/listing/addlisting.php:55
+#: codeigniter/application/views/agent/listing/addlisting.php:57
+msgid "Repository"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:30
+#: codeigniter/application/models/Listing_m.php:49
+#: codeigniter/application/views/dashboard/quicksubmission.php:48
+#: codeigniter/application/views/dashboard/quicksubmission.php:50
+#: codeigniter/application/views/admin/listing/addlisting.php:36
+#: codeigniter/application/views/admin/listing/addlisting.php:38
+#: codeigniter/application/views/agent/listing/addlisting.php:41
+#: codeigniter/application/views/agent/listing/addlisting.php:43
+msgid "Gps"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:31
+#: codeigniter/application/views/dashboard/quicksubmission.php:55
+#: codeigniter/application/views/dashboard/quicksubmission.php:57
+#: codeigniter/application/views/admin/listing/addlisting.php:43
+#: codeigniter/application/views/admin/listing/addlisting.php:45
+#: codeigniter/application/views/admin/listing/editsavesearch.php:42
+#: codeigniter/application/views/admin/listing/editsavesearch.php:44
+#: codeigniter/application/views/agent/listing/addlisting.php:48
+#: codeigniter/application/views/agent/listing/addlisting.php:50
+#: codeigniter/application/views/agent/listing/editsavesearch.php:42
+#: codeigniter/application/views/agent/listing/editsavesearch.php:44
+msgid "Date modified"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:32
+#: codeigniter/application/views/admin/listing/addlisting.php:50
+#: codeigniter/application/views/admin/listing/addlisting.php:52
+msgid "Date rank expire"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:33
+#: codeigniter/application/models/Listing_m.php:50
+#: codeigniter/application/views/admin/listing/addlisting.php:64
+#: codeigniter/application/views/admin/listing/addlisting.php:66
+#: codeigniter/application/views/agent/listing/addlisting.php:62
+#: codeigniter/application/views/agent/listing/addlisting.php:64
+msgid "Transition id"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:34
+#: codeigniter/application/models/Packagerank_m.php:19
+#: codeigniter/application/views/admin/listing/addlisting.php:73
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:31
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:33
+#: codeigniter/application/views/admin/packagerank/manage.php:21
+#: codeigniter/application/views/admin/packagerank/manage.php:35
+msgid "Rank"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:35
+#: codeigniter/application/models/Listing_m.php:51
+msgid "User id"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:36
+#: codeigniter/application/models/Listing_m.php:52
+#: codeigniter/application/views/admin/listing/addlisting.php:90
+#: codeigniter/application/views/agent/listing/addlisting.php:76
+msgid "Is primary"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:37
+#: codeigniter/application/models/Listing_m.php:53
+msgid "Related id"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:38
+#: codeigniter/application/views/admin/listing/addlisting.php:104
+#: codeigniter/application/views/agent/listing/addlisting.php:90
+msgid "Is featured"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:40
+#: codeigniter/application/models/Listing_m.php:54
+#: codeigniter/application/views/dashboard/quicksubmission.php:71
+#: codeigniter/application/views/searchform/CATEGORY.php:3
+#: codeigniter/application/views/admin/listing/addlisting.php:141
+#: codeigniter/application/views/admin/listing/manage.php:22
+#: codeigniter/application/views/admin/listing/manage.php:58
+#: codeigniter/application/views/agent/listing/addlisting.php:127
+#: codeigniter/application/views/agent/listing/manage.php:22
+#: codeigniter/application/views/agent/listing/manage.php:58
+#: codeigniter/application/views/searchform/secondary/CATEGORY.php:3
+msgid "Category"
+msgstr ""
+
+#: codeigniter/application/models/Listing_m.php:41
+#: codeigniter/application/models/Listing_m.php:55
+#: codeigniter/application/views/dashboard/quicksubmission.php:82
+#: codeigniter/application/views/frontend/listingpreview.php:124
+#: codeigniter/application/views/frontend/listingpreview.php:357
+#: codeigniter/application/views/searchform/LOCATION.php:3
+#: codeigniter/application/views/searchform/WHERE_SEARCH.php:2
+#: codeigniter/application/views/shortcodes/swlisting.php:134
+#: codeigniter/application/views/admin/listing/addlisting.php:173
+#: codeigniter/application/views/agent/listing/addlisting.php:159
+#: codeigniter/application/views/searchform/secondary/LOCATION.php:3
+#: codeigniter/application/views/searchform/secondary/SMART_SEARCH.php:2
+#: codeigniter/application/views/searchform/secondary/WHERE_SEARCH.php:2
+msgid "Location"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:20
+#: codeigniter/application/models/Messages_m.php:29
+msgid "user_id_receiver"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:21
+#: codeigniter/application/models/Messages_m.php:30
+msgid "email_receiver"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:22
+#: codeigniter/application/models/Messages_m.php:31
+msgid "email_sender"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:23
+#: codeigniter/application/models/Messages_m.php:32
+msgid "message"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:27
+msgid "related_key"
+msgstr ""
+
+#: codeigniter/application/models/Messages_m.php:55
+msgid "Not registered"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:22
+#: codeigniter/application/models/Reservation_m.php:23
+msgid "Total price"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:23
+#: codeigniter/application/models/Reservation_m.php:24
+#: codeigniter/application/views/agent/calendars/viewreservation.php:118
+msgid "Payment date for Advance"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:24
+#: codeigniter/application/models/Reservation_m.php:25
+#: codeigniter/application/views/agent/calendars/viewreservation.php:125
+msgid "Payment date for Total"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:25
+#: codeigniter/application/models/Reservation_m.php:26
+#: codeigniter/application/views/agent/calendars/viewreservation.php:104
+msgid "Total paid (money received)"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:26
+#: codeigniter/application/models/Rates_m.php:25
+#: codeigniter/application/models/Reservation_m.php:27
+msgid "Currency"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:27
+#: codeigniter/application/models/Reservation_m.php:28
+#: codeigniter/application/views/agent/calendars/viewreservation.php:132
+msgid "Confirm availability (Owner/agent must confirm before payment)"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:28
+#: codeigniter/application/models/Reservation_m.php:29
+#: codeigniter/application/views/agent/calendars/viewreservation.php:141
+msgid "Is Payment informed (by client)"
+msgstr ""
+
+#: codeigniter/application/models/Myreservation_m.php:29
+#: codeigniter/application/models/Reservation_m.php:30
+#: codeigniter/application/views/agent/calendars/viewreservation.php:150
+msgid "Is Payment completed (checked by owner/agent)"
+msgstr ""
+
+#: codeigniter/application/models/Packagerank_m.php:20
+#: codeigniter/application/models/Subscriptions_m.php:19
+#: codeigniter/application/views/dashboard/quicksubmission.php:252
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:24
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:26
+#: codeigniter/application/views/admin/packagerank/manage.php:20
+#: codeigniter/application/views/admin/packagerank/manage.php:34
+#: codeigniter/application/views/agent/listing/addlisting.php:417
+msgid "Package name"
+msgstr ""
+
+#: codeigniter/application/models/Packagerank_m.php:21
+#: codeigniter/application/models/Subscriptions_m.php:20
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:38
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:40
+#: codeigniter/application/views/admin/packagerank/manage.php:22
+#: codeigniter/application/views/admin/packagerank/manage.php:36
+#: codeigniter/application/views/admin/subscriptions/manage.php:22
+#: codeigniter/application/views/admin/subscriptions/manage.php:36
+#: codeigniter/application/views/agent/listing/subscriptions.php:20
+#: codeigniter/application/views/agent/listing/subscriptions.php:33
+msgid "Days"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:21
+msgid "Country"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:22
+#: codeigniter/application/views/searchform/WHERE_SEARCH.php:3
+#: codeigniter/application/views/searchform/secondary/SMART_SEARCH.php:3
+#: codeigniter/application/views/searchform/secondary/WHERE_SEARCH.php:3
+msgid "City"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:23
+msgid "Position title"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:24
+msgid "ZIP code"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:26
+msgid "Facebook link"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:27
+msgid "YouTube link"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:28
+msgid "LinkedIn link"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:29
+msgid "Twitter link"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:30
+msgid "Instagram"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:31
+msgid "Profile image"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:31
+msgid "Image alternative to gravatar (only admin can upload custom image)"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:37
+#: codeigniter/application/models/Profile_m.php:45
+msgid "Agency email or ID"
+msgstr ""
+
+#: codeigniter/application/models/Profile_m.php:37
+#: codeigniter/application/models/Profile_m.php:45
+msgid "Email will be auto changed to ID, Agency verification required"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:21
+msgid "Rate per hour"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:22
+msgid "Rate per night/day"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:23
+msgid "Rate per week"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:24
+msgid "Rate per month"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:26
+msgid "Min stay (days)"
+msgstr ""
+
+#: codeigniter/application/models/Rates_m.php:30
+msgid "Changeover day"
+msgstr ""
+
+#: codeigniter/application/models/Report_m.php:21
+#: codeigniter/application/views/admin/listing/editmessage.php:49
+#: codeigniter/application/views/admin/listing/editmessage.php:51
+#: codeigniter/application/views/admin/listing/editreport.php:42
+#: codeigniter/application/views/agent/listing/editmessage.php:49
+#: codeigniter/application/views/agent/listing/editmessage.php:51
+msgid "Phone"
+msgstr ""
+
+#: codeigniter/application/models/Report_m.php:22
+#: codeigniter/application/models/User_m.php:20
+#: codeigniter/application/views/dashboard/register.php:55
+#: codeigniter/application/views/dashboard/register.php:56
+#: codeigniter/application/views/frontend/userprofile.php:16
+#: codeigniter/application/views/shortcodes/swagent.php:14
+#: codeigniter/application/views/admin/listing/messages.php:20
+#: codeigniter/application/views/admin/listing/messages.php:35
+#: codeigniter/application/views/admin/listing/reports.php:20
+#: codeigniter/application/views/admin/listing/reports.php:35
+#: codeigniter/application/views/agent/listing/messages.php:20
+#: codeigniter/application/views/agent/listing/messages.php:35
+msgid "Email"
+msgstr ""
+
+#: codeigniter/application/models/Report_m.php:24
+msgid "Allow admin to contact me"
+msgstr ""
+
+#: codeigniter/application/models/Report_m.php:25
+msgid "Submit date"
+msgstr ""
+
+#: codeigniter/application/models/Reservation_m.php:22
+#: codeigniter/application/views/agent/calendars/viewreservation.php:90
+msgid "Guests number"
+msgstr ""
+
+#: codeigniter/application/models/Review_m.php:21
+#: codeigniter/application/models/Review_m.php:29
+#: codeigniter/application/views/admin/listing/editreview.php:42
+#: codeigniter/application/views/admin/listing/editreview.php:44
+#: codeigniter/application/views/admin/listing/reviews.php:20
+#: codeigniter/application/views/admin/listing/reviews.php:33
+msgid "Stars"
+msgstr ""
+
+#: codeigniter/application/models/Review_m.php:23
+#: codeigniter/application/views/admin/listing/editreview.php:56
+msgid "Is visible"
+msgstr ""
+
+#: codeigniter/application/models/Review_m.php:24
+#: codeigniter/application/models/Review_m.php:30
+msgid "Repository id"
+msgstr ""
+
+#: codeigniter/application/models/Review_m.php:25
+msgid "Mail"
+msgstr ""
+
+#: codeigniter/application/models/Searchform_m.php:18
+#: codeigniter/application/views/admin/listing/resultitem.php:16
+#: codeigniter/application/views/admin/listing/resultitem.php:18
+#: codeigniter/application/views/admin/listing/searchform.php:16
+#: codeigniter/application/views/admin/listing/searchform.php:18
+msgid "Form name"
+msgstr ""
+
+#: codeigniter/application/models/Searchform_m.php:20
+#: codeigniter/application/views/admin/listing/resultitem.php:30
+#: codeigniter/application/views/admin/listing/resultitem.php:44
+#: codeigniter/application/views/admin/listing/searchform.php:30
+#: codeigniter/application/views/admin/listing/searchform.php:44
+msgid "Fields order"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:40
+msgid "Not selected"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:50
+msgid "Noreply email"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:52
+msgid "Neighborhood walker for map"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:53
+msgid "Listing activation required"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:54
+msgid "Multilanguage required"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:55
+msgid "Init package id"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:56
+msgid "Date format JS"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:57
+msgid "Date format PHP"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:58
+msgid "Maps API Key"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:59
+msgid "Google Translate API Key"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:60
+msgid "Limit CURL calls"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:61
+msgid "Zoom map index (default)"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:62
+msgid "Zoom map index (listing preview)"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:63
+msgid ""
+"Disable automatically map zoom basic on lisings positions, on results map"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:64
+msgid "Auto translate"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:65
+msgid "Skip numbers copy to other languages"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:66
+msgid "Map fixed position"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:70
+msgid "Listing preview page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:71
+msgid "User profile page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:72
+msgid "Register page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:73
+msgid "Agents page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:74
+msgid "Agencies page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:75
+msgid "Tags page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:77
+msgid "Compare page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:78
+msgid "Results per page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:79
+msgid "Recaptcha site key"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:80
+msgid "Recaptcha secret key"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:81
+msgid "Default currency for payments"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:81
+msgid ""
+"This is only for payments, for listings go to Listings->Fields->Edit price "
+"related field and change suffix/preffix"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:82
+msgid "Default VAT percentage"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:83
+msgid "Days to expire"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:84
+msgid "PayPal email"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:85
+msgid "Use sandbox (test payments)"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:86
+msgid "Bank payment details"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:87
+msgid "WooCommerce payments only enabled"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:88
+msgid "Enable facebook login"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:89
+msgid "Facebook App ID"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:90
+msgid "Facebook App Secret"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:92
+msgid "Terms link"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:93
+msgid "Watermark"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:94
+msgid "Show categories"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:95
+msgid "Show locations"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:96
+msgid "Enable multiple results page (for templates with filename part results)"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:97
+msgid "Search in sub-categories/sub-locations"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:97
+msgid "Will be disabled if multiple categories/location is enabled"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:98
+msgid "Change subscriber to owner on quick submission"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:99
+msgid "Hide map on listing page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:100
+msgid "Hide facebook comments on listing page"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:101
+msgid "Open street map (instead google map)"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:102
+msgid "Hide menu items for agent"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:103
+msgid "Hide menu items for owner"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:104
+msgid "Pdf export mpdf enable"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:105
+msgid "use i18n wp number format"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:106
+msgid "Quicksubmission without registration"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:107
+msgid "Quicksubmission gallery on top"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:108
+msgid "Enable multiple category/locations"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:108
+msgid "Experimental Testing feature in BETA"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:109
+msgid "Disable reviews gallery"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:110
+msgid "Disable woo store link at wp top bar"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:111
+msgid "Private listings"
+msgstr ""
+
+#: codeigniter/application/models/Settings_m.php:112
+msgid "Notify admin on mail related new users"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:21
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:39
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:41
+#: codeigniter/application/views/agent/listing/viewsubscription.php:53
+msgid "Listings limit"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:23
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:78
+msgid "Is default"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:24
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:47
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:49
+#: codeigniter/application/views/agent/listing/viewsubscription.php:61
+msgid "Featured limit"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:25
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:55
+#: codeigniter/application/views/agent/listing/viewsubscription.php:69
+msgid "Set activated"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:26
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:63
+#: codeigniter/application/views/agent/listing/viewsubscription.php:79
+msgid "Set private"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:27
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:71
+#: codeigniter/application/views/agent/listing/viewsubscription.php:89
+msgid "User type"
+msgstr ""
+
+#: codeigniter/application/models/Subscriptions_m.php:28
+msgid "Woo item id"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:18
+msgid "Marker icon"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:19
+msgid "Custom Order"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:20
+#: codeigniter/application/views/admin/treefield/addvalue.php:83
+msgid "Featured image"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:21
+msgid "Font icon"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:27
+#: codeigniter/application/views/admin/treefield/addvalue.php:211
+#: codeigniter/application/views/admin/treefield/addvalue.php:213
+#: codeigniter/application/views/admin/treefield/categories.php:18
+#: codeigniter/application/views/admin/treefield/locations.php:22
+msgid "Value"
+msgstr ""
+
+#: codeigniter/application/models/Treefield_m.php:73
+msgid "Root"
+msgstr ""
+
+#: codeigniter/application/models/User_m.php:19
+#: codeigniter/application/views/dashboard/register.php:51
+msgid "Account type"
+msgstr ""
+
+#: codeigniter/application/models/User_m.php:23
+#: codeigniter/application/views/dashboard/register.php:67
+#: codeigniter/application/views/dashboard/register.php:68
+msgid "Re-enter password"
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:40
+msgid "The {field} field is required."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:41
+msgid "The {field} field must have a value."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:42
+msgid "The {field} field must contain a valid email address."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:43
+msgid "The {field} field must contain all valid email addresses."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:44
+msgid "The {field} field must contain a valid URL."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:45
+msgid "The {field} field must contain a valid IP."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:46
+msgid "The {field} field must be at least {param} characters in length."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:47
+msgid "The {field} field cannot exceed {param} characters in length."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:48
+msgid "The {field} field must be exactly {param} characters in length."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:49
+msgid "The {field} field may only contain alphabetical characters."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:50
+msgid "The {field} field may only contain alpha-numeric characters."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:51
+msgid "The {field} field may only contain alpha-numeric characters and spaces."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:52
+msgid ""
+"The {field} field may only contain alpha-numeric characters, underscores, "
+"and dashes."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:53
+msgid "The {field} field must contain only numbers."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:54
+msgid "The {field} field must contain only numeric characters."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:55
+msgid "The {field} field must contain an integer."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:56
+msgid "The {field} field is not in the correct format."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:57
+msgid "The {field} field does not match the {param} field."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:58
+msgid "The {field} field must differ from the {param} field."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:59
+msgid "The {field} field must contain a unique value."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:60
+msgid "The {field} field must only contain digits."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:61
+msgid ""
+"The {field} field must only contain digits and must be greater than zero."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:62
+msgid "The {field} field must contain a decimal number."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:63
+msgid "The {field} field must contain a number less than {param}."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:64
+msgid "The {field} field must contain a number less than or equal to {param}."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:65
+msgid "The {field} field must contain a number greater than {param}."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:66
+msgid ""
+"The {field} field must contain a number greater than or equal to {param}."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:67
+msgid ""
+"Unable to access an error message corresponding to your field name {field}."
+msgstr ""
+
+#: codeigniter/application/language/english/form_validation_lang.php:68
+msgid "The {field} field must be one of: {param}."
+msgstr ""
+
+#: codeigniter/application/libraries/payment_providers/provider_paypal.php:14
+msgid "PayPal email address missing"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:7
+msgid "If you are already registered, please first login here"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:12
+msgid ""
+"Your account don't have permission to add listing, you can logout and add "
+"listing again"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:16
+msgid "Thanks on submission and check your email for all details"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:21
+msgid ""
+"On quick submission you should populate fields in default website langauge"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:242
+#: codeigniter/application/views/agent/listing/addlisting.php:398
+msgid "Rank package"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:246
+#: codeigniter/application/views/agent/listing/addlisting.php:402
+msgid "Purchase higher listing rank and sell faster"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:253
+#: codeigniter/application/views/agent/listing/addlisting.php:418
+msgid "Days expire"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:290
+#: codeigniter/application/views/admin/currency/addcurrency.php:56
+#: codeigniter/application/views/admin/files/edit.php:145
+#: codeigniter/application/views/admin/form_elements/button_submit.php:5
+#: codeigniter/application/views/admin/listing/addfield.php:228
+#: codeigniter/application/views/admin/listing/addlisting.php:406
+#: codeigniter/application/views/admin/listing/editmessage.php:72
+#: codeigniter/application/views/admin/listing/editreport.php:72
+#: codeigniter/application/views/admin/listing/editreview.php:65
+#: codeigniter/application/views/admin/listing/editsavesearch.php:72
+#: codeigniter/application/views/admin/listing/resultitem.php:51
+#: codeigniter/application/views/admin/listing/searchform.php:51
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:140
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:64
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:140
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:111
+#: codeigniter/application/views/admin/treefield/addvalue.php:289
+#: codeigniter/application/views/agent/listing/addlisting.php:447
+#: codeigniter/application/views/agent/listing/editmessage.php:72
+#: codeigniter/application/views/agent/listing/editsavesearch.php:72
+msgid "Save"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:302
+#: codeigniter/application/views/admin/listing/addlisting.php:415
+#: codeigniter/application/views/agent/listing/addlisting.php:456
+msgid "Photo and other files"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:317
+#: codeigniter/application/views/admin/listing/addlisting.php:429
+#: codeigniter/application/views/agent/listing/addlisting.php:470
+msgid "Add files..."
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:322
+#: codeigniter/application/views/admin/listing/addlisting.php:434
+#: codeigniter/application/views/agent/listing/addlisting.php:475
+msgid "Delete selected"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:463
+#: codeigniter/application/views/dashboard/quicksubmission.php:464
+#: codeigniter/application/views/admin/listing/addlisting.php:600
+#: codeigniter/application/views/admin/listing/addlisting.php:683
+#: codeigniter/application/views/admin/listing/addlisting.php:684
+#: codeigniter/application/views/agent/listing/addlisting.php:640
+#: codeigniter/application/views/agent/listing/addlisting.php:723
+#: codeigniter/application/views/agent/listing/addlisting.php:724
+msgid "Address not found"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:479
+#: codeigniter/application/views/admin/listing/addlisting.php:706
+#: codeigniter/application/views/agent/listing/addlisting.php:746
+msgid "Edit image"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:600
+#: codeigniter/application/views/admin/listing/addlisting.php:827
+#: codeigniter/application/views/agent/listing/addlisting.php:867
+msgid "Unsuccessful, possible permission problems or file not exists"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/quicksubmission.php:609
+#: codeigniter/application/views/dashboard/quicksubmission.php:617
+#: codeigniter/application/views/admin/listing/addlisting.php:836
+#: codeigniter/application/views/admin/listing/addlisting.php:843
+#: codeigniter/application/views/admin/listing/profile.php:170
+#: codeigniter/application/views/agent/listing/addlisting.php:876
+#: codeigniter/application/views/agent/listing/addlisting.php:884
+#: codeigniter/application/views/agent/listing/profile.php:173
+msgid "Disabled in demo"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:5
+msgid "You are already logged in"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:5
+msgid "Open dashboard"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:13
+msgid "Please login or register to add your listings"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:19
+#: codeigniter/application/views/dashboard/register.php:35
+msgid "Login"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:21
+msgid "Login successfully"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:21
+msgid "Wrong credentials"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:23
+msgid "Username or Email"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:41
+msgid "Facebook login"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:47
+#: codeigniter/application/views/dashboard/register.php:76
+msgid "Register"
+msgstr ""
+
+#: codeigniter/application/views/dashboard/register.php:49
+msgid "Register successfully, you can login now"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/listings.php:5
+msgid "Recently Added"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/listings.php:26
+msgid "You don't have any listings"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/listings.php:51
+msgid "Preview"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/listings.php:74
+msgid "Manage listings"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/listings.php:82
+msgid "Listing features are not available for your account type"
+msgstr ""
+
+#: codeigniter/application/views/dashwidgets/news.php:4
+msgid "Loading in progress"
+msgstr ""
+
+#: codeigniter/application/views/frontend/agencies.php:3
+msgid "Agency name"
+msgstr ""
+
+#: codeigniter/application/views/frontend/agents.php:3
+msgid "Agent name"
+msgstr ""
+
+#: codeigniter/application/views/frontend/agentsresults.php:9
+msgid "Agents not found"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:84
+msgid "Add to favorites"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:85
+msgid "Remove from favorites"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:224
+msgid "Reservation rates"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:232
+msgid "Day"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:233
+msgid "Hour"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:234
+msgid "Week"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:235
+msgid "Month"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:269
+msgid "Prices in currency: "
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:283
+msgid "Related listings"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:375
+msgid "Documents files"
+msgstr ""
+
+#: codeigniter/application/views/frontend/listingpreview.php:400
+msgid "Facebook comments"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:7
+msgid "Results"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:23
+#: codeigniter/application/views/frontend/userprofilelistings.php:23
+msgid "By publish date ASC"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:24
+#: codeigniter/application/views/frontend/userprofilelistings.php:24
+msgid "By publish date DESC"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:25
+#: codeigniter/application/views/frontend/userprofilelistings.php:25
+msgid "By price ASC"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:26
+#: codeigniter/application/views/frontend/userprofilelistings.php:26
+msgid "By price DESC"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:35
+#: codeigniter/application/views/frontend/userprofilelistings.php:35
+msgid "Order By"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:46
+#: codeigniter/application/views/frontend/userprofilelistings.php:46
+msgid "Results not found"
+msgstr ""
+
+#: codeigniter/application/views/frontend/resultspage.php:77
+#: codeigniter/application/views/frontend/userprofilelistings.php:77
+msgid "View details"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:10
+msgid "Thanks on review"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:14
+msgid "Saved successfully"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:18
+msgid "Rating"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:42
+msgid "Login to review"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:42
+msgid "Open login page"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:61
+msgid "Hidden by admin"
+msgstr ""
+
+#: codeigniter/application/views/frontend/reviews.php:69
+msgid "No reviews available"
+msgstr ""
+
+#: codeigniter/application/views/frontend/userprofile.php:1
+msgid "Profile page"
+msgstr ""
+
+#: codeigniter/application/views/frontend/userprofile.php:15
+#: codeigniter/application/views/shortcodes/swagent.php:13
+#: codeigniter/application/views/admin/listing/reports.php:18
+#: codeigniter/application/views/admin/listing/reports.php:33
+msgid "Name"
+msgstr ""
+
+#: codeigniter/application/views/frontend/userprofile.php:19
+#: codeigniter/application/views/shortcodes/swagent.php:17
+msgid "Website"
+msgstr ""
+
+#: codeigniter/application/views/frontend/userprofilelistings.php:7
+msgid "Other user listings"
+msgstr ""
+
+#: codeigniter/application/views/searchform/CATEGORY.php:7
+#: codeigniter/application/views/searchform/LOCATION.php:7
+#: codeigniter/application/views/searchform/WHAT_SEARCH.php:7
+#: codeigniter/application/views/searchform/secondary/CATEGORY.php:7
+#: codeigniter/application/views/searchform/secondary/LOCATION.php:7
+#: codeigniter/application/views/searchform/secondary/WHAT_SEARCH.php:7
+msgid "Search keyword"
+msgstr ""
+
+#: codeigniter/application/views/searchform/CATEGORY.php:18
+msgid "All Categories"
+msgstr ""
+
+#: codeigniter/application/views/searchform/C_BOOKING.php:7
+msgid "Booking"
+msgstr ""
+
+#: codeigniter/application/views/searchform/C_BOOKING.php:99
+msgid "BOOKING PLUGIN MISSING"
+msgstr ""
+
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:12
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:13
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:13
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:19
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:19
+msgid "Price From"
+msgstr ""
+
+#: codeigniter/application/views/searchform/C_PRICE_RANGE.php:18
+msgid "Price To"
+msgstr ""
+
+#: codeigniter/application/views/searchform/DROPDOWN.php:4
+#: codeigniter/application/views/searchform/INTEGER.php:5
+#: codeigniter/application/views/admin/listing/searchform.php:619
+#: codeigniter/application/views/searchform/secondary/INTEGER.php:5
+msgid "FROM"
+msgstr ""
+
+#: codeigniter/application/views/searchform/DROPDOWN.php:5
+#: codeigniter/application/views/searchform/INTEGER.php:6
+#: codeigniter/application/views/admin/listing/searchform.php:620
+#: codeigniter/application/views/searchform/secondary/INTEGER.php:6
+msgid "TO"
+msgstr ""
+
+#: codeigniter/application/views/searchform/DROPDOWN.php:30
+msgid "Any"
+msgstr ""
+
+#: codeigniter/application/views/searchform/LOCATION.php:18
+#: codeigniter/application/views/searchform/secondary/LOCATION.php:18
+msgid "All Locations"
+msgstr ""
+
+#: codeigniter/application/views/searchform/WHAT_SEARCH.php:3
+#: codeigniter/application/views/searchform/secondary/WHAT_SEARCH.php:3
+msgid "What?"
+msgstr ""
+
+#: codeigniter/application/views/searchform/WHERE_SEARCH.php:6
+#: codeigniter/application/views/searchform/secondary/SMART_SEARCH.php:6
+#: codeigniter/application/views/searchform/secondary/WHERE_SEARCH.php:6
+msgid "Radius"
+msgstr ""
+
+#: codeigniter/application/views/shortcodes/swcontact.php:1
+#: codeigniter/application/views/widgets/contactform.php:3
+msgid "Message sent successfully"
+msgstr ""
+
+#: codeigniter/application/views/widgets/addlisting.php:1
+msgid "Quick add Listing"
+msgstr ""
+
+#: codeigniter/application/views/widgets/compare.php:22
+msgid "Please define compare page in Listings->Settings"
+msgstr ""
+
+#: codeigniter/application/views/widgets/compare.php:33
+msgid "Add for comparison"
+msgstr ""
+
+#: codeigniter/application/views/widgets/compare.php:37
+msgid "Remove from comparison"
+msgstr ""
+
+#: codeigniter/application/views/widgets/compare.php:45
+msgid "Compare"
+msgstr ""
+
+#: codeigniter/application/views/widgets/contactform.php:26
+msgid "For booking, please"
+msgstr ""
+
+#: codeigniter/application/views/widgets/contactform.php:57
+msgid "Guests"
+msgstr ""
+
+#: codeigniter/application/views/widgets/geomap.php:149
+msgid "back"
+msgstr ""
+
+#: codeigniter/application/views/widgets/geomap.php:176
+msgid "Map didn`t create, please contact with administrator"
+msgstr ""
+
+#: codeigniter/application/views/widgets/geomap.php:579
+#: codeigniter/application/views/widgets/geomap.php:588
+msgid "more"
+msgstr ""
+
+#: codeigniter/application/views/widgets/geomap.php:582
+msgid "short"
+msgstr ""
+
+#: codeigniter/application/views/widgets/latestagents.php:5
+#: codeigniter/application/views/widgets/latestlistings.php:5
+msgid "Not available"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:33
+msgid "House price"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:37
+msgid "Interest"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:41
+msgid "Down payment"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:45
+msgid "Years"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:49
+msgid "Monthly Repayments"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:54
+msgid "Weekly Repayments"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:59
+msgid "Calculate"
+msgstr ""
+
+#: codeigniter/application/views/widgets/mortgage.php:140
+msgid "Please fill empty fields"
+msgstr ""
+
+#: codeigniter/application/views/widgets/savesearch.php:2
+msgid "Savesearch"
+msgstr ""
+
+#: codeigniter/application/views/widgets/savesearch.php:22
+msgid "Please login to save search"
+msgstr ""
+
+#: codeigniter/application/views/widgets/savesearch.php:60
+msgid "Search criteria not selected"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addcalendar.php:3
+#: codeigniter/application/views/agent/calendars/addcalendar.php:3
+msgid "Edit calendar"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addcalendar.php:5
+#: codeigniter/application/views/agent/calendars/addcalendar.php:5
+msgid "Add calendar"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addcalendar.php:12
+#: codeigniter/application/views/agent/calendars/addcalendar.php:12
+msgid "Calendar data"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addrate.php:3
+#: codeigniter/application/views/agent/calendars/addrate.php:3
+msgid "Edit rate"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addrate.php:5
+#: codeigniter/application/views/agent/calendars/addrate.php:5
+msgid "Add rate"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addrate.php:12
+#: codeigniter/application/views/agent/calendars/addrate.php:12
+msgid "Rate data"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addreservation.php:5
+#: codeigniter/application/views/agent/calendars/addreservation.php:5
+msgid "Add reservation"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/addreservation.php:12
+#: codeigniter/application/views/agent/calendars/addreservation.php:12
+msgid "Reservation data"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:2
+#: codeigniter/application/views/agent/calendars/manage.php:2
+msgid "Calendars manage"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:3
+#: codeigniter/application/views/admin/calendars/rates.php:2
+#: codeigniter/application/views/admin/calendars/reservations.php:2
+#: codeigniter/application/views/admin/currency/manage.php:3
+#: codeigniter/application/views/admin/listing/fields.php:11
+#: codeigniter/application/views/admin/listing/manage.php:2
+#: codeigniter/application/views/admin/packagerank/manage.php:3
+#: codeigniter/application/views/admin/subscriptions/manage.php:3
+#: codeigniter/application/views/admin/treefield/addvalue.php:3
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:3
+#: codeigniter/application/views/admin/treefield/categories.php:2
+#: codeigniter/application/views/admin/treefield/locations.php:3
+#: codeigniter/application/views/agent/calendars/manage.php:3
+#: codeigniter/application/views/agent/calendars/rates.php:2
+#: codeigniter/application/views/agent/calendars/reservations.php:2
+#: codeigniter/application/views/agent/listing/manage.php:2
+msgid "Add New"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:9
+#: codeigniter/application/views/admin/calendars/rates.php:8
+#: codeigniter/application/views/admin/calendars/reservations.php:8
+#: codeigniter/application/views/admin/currency/manage.php:10
+#: codeigniter/application/views/admin/listing/favorites.php:7
+#: codeigniter/application/views/admin/listing/manage.php:7
+#: codeigniter/application/views/admin/listing/messages.php:7
+#: codeigniter/application/views/admin/listing/reports.php:7
+#: codeigniter/application/views/admin/listing/reviews.php:7
+#: codeigniter/application/views/admin/listing/savesearch.php:7
+#: codeigniter/application/views/admin/packagerank/invoices.php:7
+#: codeigniter/application/views/admin/packagerank/manage.php:9
+#: codeigniter/application/views/admin/subscriptions/invoices.php:7
+#: codeigniter/application/views/admin/subscriptions/manage.php:9
+#: codeigniter/application/views/agent/calendars/manage.php:9
+#: codeigniter/application/views/agent/calendars/myreservations.php:8
+#: codeigniter/application/views/agent/calendars/rates.php:8
+#: codeigniter/application/views/agent/calendars/reservations.php:8
+#: codeigniter/application/views/agent/listing/favorites.php:7
+#: codeigniter/application/views/agent/listing/invoices.php:14
+#: codeigniter/application/views/agent/listing/manage.php:7
+#: codeigniter/application/views/agent/listing/messages.php:7
+#: codeigniter/application/views/agent/listing/savesearch.php:7
+#: codeigniter/application/views/agent/listing/subscriptions.php:7
+msgid "Dynamic table"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:21
+#: codeigniter/application/views/admin/calendars/manage.php:34
+#: codeigniter/application/views/agent/calendars/manage.php:21
+#: codeigniter/application/views/agent/calendars/manage.php:33
+msgid "Calendar"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:128
+#: codeigniter/application/views/admin/calendars/rates.php:117
+#: codeigniter/application/views/admin/calendars/reservations.php:120
+#: codeigniter/application/views/admin/currency/manage.php:120
+#: codeigniter/application/views/admin/listing/favorites.php:114
+#: codeigniter/application/views/admin/listing/manage.php:165
+#: codeigniter/application/views/admin/listing/messages.php:122
+#: codeigniter/application/views/admin/listing/reports.php:122
+#: codeigniter/application/views/admin/listing/reviews.php:116
+#: codeigniter/application/views/admin/listing/savesearch.php:119
+#: codeigniter/application/views/admin/packagerank/invoices.php:122
+#: codeigniter/application/views/admin/packagerank/manage.php:121
+#: codeigniter/application/views/admin/subscriptions/invoices.php:122
+#: codeigniter/application/views/admin/subscriptions/manage.php:121
+#: codeigniter/application/views/agent/calendars/manage.php:125
+#: codeigniter/application/views/agent/calendars/myreservations.php:117
+#: codeigniter/application/views/agent/calendars/rates.php:117
+#: codeigniter/application/views/agent/calendars/reservations.php:120
+#: codeigniter/application/views/agent/listing/favorites.php:114
+#: codeigniter/application/views/agent/listing/invoices.php:129
+#: codeigniter/application/views/agent/listing/manage.php:163
+#: codeigniter/application/views/agent/listing/messages.php:122
+#: codeigniter/application/views/agent/listing/savesearch.php:119
+#: codeigniter/application/views/agent/listing/subscriptions.php:116
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:129
+#: codeigniter/application/views/admin/calendars/rates.php:118
+#: codeigniter/application/views/admin/calendars/reservations.php:121
+#: codeigniter/application/views/admin/currency/manage.php:121
+#: codeigniter/application/views/admin/listing/favorites.php:115
+#: codeigniter/application/views/admin/listing/manage.php:166
+#: codeigniter/application/views/admin/listing/messages.php:123
+#: codeigniter/application/views/admin/listing/reports.php:123
+#: codeigniter/application/views/admin/listing/reviews.php:117
+#: codeigniter/application/views/admin/listing/savesearch.php:120
+#: codeigniter/application/views/admin/packagerank/invoices.php:123
+#: codeigniter/application/views/admin/packagerank/manage.php:122
+#: codeigniter/application/views/admin/subscriptions/invoices.php:123
+#: codeigniter/application/views/admin/subscriptions/manage.php:122
+#: codeigniter/application/views/agent/calendars/manage.php:126
+#: codeigniter/application/views/agent/calendars/myreservations.php:118
+#: codeigniter/application/views/agent/calendars/rates.php:118
+#: codeigniter/application/views/agent/calendars/reservations.php:121
+#: codeigniter/application/views/agent/listing/favorites.php:115
+#: codeigniter/application/views/agent/listing/invoices.php:130
+#: codeigniter/application/views/agent/listing/manage.php:164
+#: codeigniter/application/views/agent/listing/messages.php:123
+#: codeigniter/application/views/agent/listing/savesearch.php:120
+#: codeigniter/application/views/agent/listing/subscriptions.php:117
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:130
+#: codeigniter/application/views/admin/calendars/rates.php:119
+#: codeigniter/application/views/admin/calendars/reservations.php:122
+#: codeigniter/application/views/admin/currency/manage.php:122
+#: codeigniter/application/views/admin/listing/favorites.php:116
+#: codeigniter/application/views/admin/listing/manage.php:167
+#: codeigniter/application/views/admin/listing/messages.php:124
+#: codeigniter/application/views/admin/listing/reports.php:124
+#: codeigniter/application/views/admin/listing/reviews.php:118
+#: codeigniter/application/views/admin/listing/savesearch.php:121
+#: codeigniter/application/views/admin/packagerank/invoices.php:124
+#: codeigniter/application/views/admin/packagerank/manage.php:123
+#: codeigniter/application/views/admin/subscriptions/invoices.php:124
+#: codeigniter/application/views/admin/subscriptions/manage.php:123
+#: codeigniter/application/views/agent/calendars/manage.php:127
+#: codeigniter/application/views/agent/calendars/myreservations.php:119
+#: codeigniter/application/views/agent/calendars/rates.php:119
+#: codeigniter/application/views/agent/calendars/reservations.php:122
+#: codeigniter/application/views/agent/listing/favorites.php:116
+#: codeigniter/application/views/agent/listing/invoices.php:131
+#: codeigniter/application/views/agent/listing/manage.php:165
+#: codeigniter/application/views/agent/listing/messages.php:124
+#: codeigniter/application/views/agent/listing/savesearch.php:121
+#: codeigniter/application/views/agent/listing/subscriptions.php:118
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/manage.php:131
+#: codeigniter/application/views/admin/calendars/rates.php:120
+#: codeigniter/application/views/admin/calendars/reservations.php:123
+#: codeigniter/application/views/admin/currency/manage.php:123
+#: codeigniter/application/views/admin/listing/favorites.php:117
+#: codeigniter/application/views/admin/listing/manage.php:168
+#: codeigniter/application/views/admin/listing/messages.php:125
+#: codeigniter/application/views/admin/listing/reports.php:125
+#: codeigniter/application/views/admin/listing/reviews.php:119
+#: codeigniter/application/views/admin/listing/savesearch.php:122
+#: codeigniter/application/views/admin/packagerank/invoices.php:125
+#: codeigniter/application/views/admin/packagerank/manage.php:124
+#: codeigniter/application/views/admin/subscriptions/invoices.php:125
+#: codeigniter/application/views/admin/subscriptions/manage.php:124
+#: codeigniter/application/views/agent/calendars/manage.php:128
+#: codeigniter/application/views/agent/calendars/myreservations.php:120
+#: codeigniter/application/views/agent/calendars/rates.php:120
+#: codeigniter/application/views/agent/calendars/reservations.php:123
+#: codeigniter/application/views/agent/listing/favorites.php:117
+#: codeigniter/application/views/agent/listing/invoices.php:132
+#: codeigniter/application/views/agent/listing/manage.php:166
+#: codeigniter/application/views/agent/listing/messages.php:125
+#: codeigniter/application/views/agent/listing/savesearch.php:122
+#: codeigniter/application/views/agent/listing/subscriptions.php:119
+msgid "No data available in table"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/rates.php:2
+#: codeigniter/application/views/agent/calendars/rates.php:2
+msgid "Calendar rates"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/rates.php:20
+#: codeigniter/application/views/admin/calendars/rates.php:33
+#: codeigniter/application/views/admin/calendars/reservations.php:21
+#: codeigniter/application/views/admin/calendars/reservations.php:35
+#: codeigniter/application/views/agent/calendars/myreservations.php:21
+#: codeigniter/application/views/agent/calendars/myreservations.php:34
+#: codeigniter/application/views/agent/calendars/rates.php:20
+#: codeigniter/application/views/agent/calendars/rates.php:33
+#: codeigniter/application/views/agent/calendars/reservations.php:21
+#: codeigniter/application/views/agent/calendars/reservations.php:35
+msgid "From"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/rates.php:21
+#: codeigniter/application/views/admin/calendars/rates.php:34
+#: codeigniter/application/views/admin/calendars/reservations.php:22
+#: codeigniter/application/views/admin/calendars/reservations.php:36
+#: codeigniter/application/views/agent/calendars/myreservations.php:22
+#: codeigniter/application/views/agent/calendars/myreservations.php:35
+#: codeigniter/application/views/agent/calendars/rates.php:21
+#: codeigniter/application/views/agent/calendars/rates.php:34
+#: codeigniter/application/views/agent/calendars/reservations.php:22
+#: codeigniter/application/views/agent/calendars/reservations.php:36
+msgid "To"
+msgstr ""
+
+#: codeigniter/application/views/admin/calendars/reservations.php:2
+#: codeigniter/application/views/agent/calendars/reservations.php:2
+msgid "Calendar reservations"
+msgstr ""
+
+#: codeigniter/application/views/admin/currency/addcurrency.php:3
+msgid "Edit currency"
+msgstr ""
+
+#: codeigniter/application/views/admin/currency/addcurrency.php:5
+msgid "Add currency"
+msgstr ""
+
+#: codeigniter/application/views/admin/currency/addcurrency.php:12
+msgid "Currency data"
+msgstr ""
+
+#: codeigniter/application/views/admin/currency/manage.php:2
+msgid "Currency manage"
+msgstr ""
+
+#: codeigniter/application/views/admin/currency/manage.php:4
+msgid "Sync with EU bank"
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:4
+msgid "Image croping"
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:87
+msgid "Move image to wanted position, only on aspect ratio issues."
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:91
+msgid "Image is already in right aspect ration."
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:106
+msgid "Resize image"
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:117
+#: codeigniter/application/views/admin/files/edit.php:119
+msgid "Alt"
+msgstr ""
+
+#: codeigniter/application/views/admin/files/edit.php:137
+#: codeigniter/application/views/admin/files/edit.php:139
+msgid "Link"
+msgstr ""
+
+#: codeigniter/application/views/admin/form_elements/datetimepicker.php:13
+msgid "Select date & time"
+msgstr ""
+
+#: codeigniter/application/views/admin/form_elements/input_readonly.php:15
+#: codeigniter/application/views/admin/form_elements/secret_key.php:3
+msgid "Read only"
+msgstr ""
+
+#: codeigniter/application/views/admin/form_elements/secret_key.php:11
+msgid "Generate new"
+msgstr ""
+
+#: codeigniter/application/views/admin/form_elements/validation_errors.php:3
+msgid "Form is not properly populated, details below"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:7
+msgid "Install data"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:16
+msgid "Plugin tables not installed, please install"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:18
+msgid "Plugin tables not updated, please update"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:20
+msgid "Plugin is ready to use"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:20
+#: codeigniter/application/views/admin/install/index.php:49
+msgid "Open website here"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:39
+msgid "Continue to next step"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:45
+msgid "Minimum execution time should be 300 seconds"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:45
+msgid "Open php.net"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:48
+msgid "Install"
+msgstr ""
+
+#: codeigniter/application/views/admin/install/index.php:49
+msgid "Plugin installed/updated successfully"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:3
+msgid "Edit listing field"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:5
+msgid "Add listing field"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:12
+msgid "Field data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:49
+msgid "Visible on frontend submission"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:73
+msgid "Not available for all field types"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:96
+msgid "Enable searching like from/to or some text"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:102
+msgid "Columns number"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:110
+msgid "Image field"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:157
+#: codeigniter/application/views/admin/listing/addlisting.php:201
+#: codeigniter/application/views/admin/treefield/addvalue.php:189
+#: codeigniter/application/views/agent/listing/addlisting.php:187
+msgid "Languages"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addfield.php:186
+#: codeigniter/application/views/admin/listing/addfield.php:188
+msgid "Values (Without spaces)"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:2
+#: codeigniter/application/views/agent/listing/addlisting.php:3
+msgid "Edit listing"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:11
+#: codeigniter/application/views/agent/listing/addlisting.php:18
+msgid "Listing data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:18
+#: codeigniter/application/views/admin/listing/addlisting.php:190
+#: codeigniter/application/views/admin/listing/editreport.php:87
+#: codeigniter/application/views/agent/listing/addlisting.php:24
+msgid "Preview listing"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:71
+msgid "Rank id"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:83
+msgid "Add agent"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:84
+#: codeigniter/application/views/admin/listing/addlisting.php:133
+#: codeigniter/application/views/admin/listing/addlisting.php:165
+#: codeigniter/application/views/agent/listing/addlisting.php:119
+#: codeigniter/application/views/agent/listing/addlisting.php:151
+msgid "Remove latest on list"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:84
+#: codeigniter/application/views/admin/listing/addlisting.php:133
+#: codeigniter/application/views/admin/listing/addlisting.php:165
+#: codeigniter/application/views/agent/listing/addlisting.php:119
+#: codeigniter/application/views/agent/listing/addlisting.php:151
+msgid "X"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:97
+#: codeigniter/application/views/agent/listing/addlisting.php:83
+msgid "Related"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:120
+#: codeigniter/application/views/agent/listing/addlisting.php:106
+msgid "Primary Category"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:127
+#: codeigniter/application/views/agent/listing/addlisting.php:113
+msgid "Sub Categories"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:132
+#: codeigniter/application/views/agent/listing/addlisting.php:118
+msgid "Add category"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:152
+#: codeigniter/application/views/agent/listing/addlisting.php:138
+msgid "Primary Location"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:159
+#: codeigniter/application/views/agent/listing/addlisting.php:145
+msgid "Sub Locations"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:164
+#: codeigniter/application/views/agent/listing/addlisting.php:150
+msgid "Add location"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:184
+#: codeigniter/application/views/agent/listing/addlisting.php:170
+msgid "Enter address, then drag and drop your autodetected location on map"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:191
+msgid "Clone listing"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:241
+#: codeigniter/application/views/agent/listing/addlisting.php:233
+msgid "Not translatable"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:650
+#: codeigniter/application/views/agent/listing/addlisting.php:690
+msgid "Already on list"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/addlisting.php:926
+#: codeigniter/application/views/agent/listing/addlisting.php:967
+msgid "Listing location"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:3
+msgid "Read message"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:12
+#: codeigniter/application/views/agent/listing/editmessage.php:12
+msgid "Message data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:28
+#: codeigniter/application/views/admin/listing/editmessage.php:30
+#: codeigniter/application/views/admin/listing/editreport.php:28
+#: codeigniter/application/views/admin/listing/editreport.php:30
+#: codeigniter/application/views/agent/listing/editmessage.php:28
+#: codeigniter/application/views/agent/listing/editmessage.php:30
+msgid "Date sent"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:35
+#: codeigniter/application/views/admin/listing/editmessage.php:37
+#: codeigniter/application/views/admin/listing/editreport.php:49
+#: codeigniter/application/views/admin/listing/editreport.php:51
+#: codeigniter/application/views/agent/listing/editmessage.php:35
+#: codeigniter/application/views/agent/listing/editmessage.php:37
+msgid "Email sender"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:42
+#: codeigniter/application/views/admin/listing/editmessage.php:44
+#: codeigniter/application/views/agent/listing/editmessage.php:42
+#: codeigniter/application/views/agent/listing/editmessage.php:44
+msgid "Email receiver"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:81
+#: codeigniter/application/views/agent/listing/editmessage.php:81
+msgid "Live messages"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editmessage.php:124
+#: codeigniter/application/views/agent/listing/editmessage.php:124
+msgid "User is not registered"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:3
+msgid "Read report"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:12
+msgid "Report data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:37
+msgid "name"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:44
+msgid "phone"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:63
+msgid "Allow contact"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:85
+msgid "Write email"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreport.php:90
+msgid "Delete Listing"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreview.php:3
+#: codeigniter/application/views/admin/listing/editsavesearch.php:3
+#: codeigniter/application/views/agent/listing/editsavesearch.php:3
+msgid "Edit review"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreview.php:12
+#: codeigniter/application/views/admin/listing/editsavesearch.php:12
+#: codeigniter/application/views/agent/listing/editsavesearch.php:12
+msgid "Review data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editreview.php:35
+#: codeigniter/application/views/admin/listing/editreview.php:37
+#: codeigniter/application/views/admin/listing/editsavesearch.php:35
+#: codeigniter/application/views/admin/listing/editsavesearch.php:37
+#: codeigniter/application/views/agent/listing/editsavesearch.php:35
+#: codeigniter/application/views/agent/listing/editsavesearch.php:37
+msgid "Date submit"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editsavesearch.php:28
+#: codeigniter/application/views/admin/listing/editsavesearch.php:30
+#: codeigniter/application/views/agent/listing/editsavesearch.php:28
+#: codeigniter/application/views/agent/listing/editsavesearch.php:30
+msgid "Lang id"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editsavesearch.php:49
+#: codeigniter/application/views/admin/listing/editsavesearch.php:51
+#: codeigniter/application/views/agent/listing/editsavesearch.php:49
+#: codeigniter/application/views/agent/listing/editsavesearch.php:51
+msgid "Date last informed"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/editsavesearch.php:56
+#: codeigniter/application/views/admin/listing/editsavesearch.php:58
+#: codeigniter/application/views/agent/listing/editsavesearch.php:56
+#: codeigniter/application/views/agent/listing/editsavesearch.php:58
+msgid "Parameters"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/favorites.php:19
+#: codeigniter/application/views/admin/listing/favorites.php:31
+#: codeigniter/application/views/admin/listing/reviews.php:19
+#: codeigniter/application/views/admin/listing/reviews.php:32
+#: codeigniter/application/views/agent/listing/favorites.php:19
+#: codeigniter/application/views/agent/listing/favorites.php:31
+msgid "User ID"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/fields.php:11
+msgid "Listing fields"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/fields.php:16
+msgid "Fields structure"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/fields.php:73
+msgid "Data editing disabled in demo"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/fields.php:75
+msgid "data_saved"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/manage.php:2
+#: codeigniter/application/views/agent/listing/manage.php:2
+msgid "Listing manage"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/messages.php:18
+#: codeigniter/application/views/admin/listing/messages.php:33
+#: codeigniter/application/views/agent/listing/messages.php:18
+#: codeigniter/application/views/agent/listing/messages.php:33
+msgid "Readed"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/messages.php:19
+#: codeigniter/application/views/admin/listing/messages.php:34
+#: codeigniter/application/views/admin/listing/reports.php:19
+#: codeigniter/application/views/admin/listing/reports.php:34
+#: codeigniter/application/views/admin/listing/savesearch.php:19
+#: codeigniter/application/views/admin/listing/savesearch.php:33
+#: codeigniter/application/views/agent/listing/messages.php:19
+#: codeigniter/application/views/agent/listing/messages.php:34
+#: codeigniter/application/views/agent/listing/savesearch.php:19
+#: codeigniter/application/views/agent/listing/savesearch.php:33
+msgid "Date"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:2
+#: codeigniter/application/views/agent/listing/profile.php:2
+msgid "Profile additional details"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:7
+#: codeigniter/application/views/agent/listing/profile.php:7
+msgid "Profile additional data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:22
+#: codeigniter/application/views/agent/listing/profile.php:22
+msgid "Agents related"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:37
+#: codeigniter/application/views/agent/listing/profile.php:37
+msgid "Above agents request connection, you can verify it"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:115
+#: codeigniter/application/views/admin/listing/settings.php:139
+#: codeigniter/application/views/agent/listing/profile.php:118
+msgid "Your Location"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:162
+#: codeigniter/application/views/agent/listing/profile.php:165
+msgid "Agents saved"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/profile.php:166
+#: codeigniter/application/views/agent/listing/profile.php:169
+msgid "Error with request"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:2
+msgid "Result item editor"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:7
+msgid "Result item data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:60
+#: codeigniter/application/views/admin/listing/searchform.php:60
+msgid "Drag from here"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:67
+#: codeigniter/application/views/admin/listing/searchform.php:67
+msgid "FIELDS"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:93
+#: codeigniter/application/views/admin/listing/searchform.php:104
+msgid "Drop to here"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:100
+msgid "RESULT ITEM FIELDS"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:201
+#: codeigniter/application/views/admin/listing/searchform.php:261
+msgid "Already added"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:215
+#: codeigniter/application/views/admin/listing/searchform.php:275
+msgid "Supported only for PRIMARY form"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:496
+#: codeigniter/application/views/admin/listing/searchform.php:594
+msgid "Submit failed, please populate all fields!"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:499
+#: codeigniter/application/views/admin/listing/resultitem.php:501
+#: codeigniter/application/views/admin/listing/searchform.php:597
+#: codeigniter/application/views/admin/listing/searchform.php:599
+msgid "Rel"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:505
+#: codeigniter/application/views/admin/listing/resultitem.php:507
+#: codeigniter/application/views/admin/listing/searchform.php:603
+#: codeigniter/application/views/admin/listing/searchform.php:605
+msgid "Style"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:511
+#: codeigniter/application/views/admin/listing/resultitem.php:513
+#: codeigniter/application/views/admin/listing/searchform.php:609
+#: codeigniter/application/views/admin/listing/searchform.php:611
+msgid "Class"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/resultitem.php:518
+#: codeigniter/application/views/admin/listing/searchform.php:626
+msgid "Submit"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/savesearch.php:21
+#: codeigniter/application/views/admin/listing/savesearch.php:35
+#: codeigniter/application/views/agent/listing/savesearch.php:21
+#: codeigniter/application/views/agent/listing/savesearch.php:35
+msgid "Date informed"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:2
+msgid "Search forms editor"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:7
+msgid "Search forms data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:68
+msgid "WHAT SEARCH"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:69
+msgid "WHERE SEARCH"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:70
+msgid "BREAKLINE"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:72
+msgid "LOCATION"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:73
+#: codeigniter/application/views/admin/listing/searchform.php:147
+msgid "PRICE RANGE"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:76
+msgid "BOOKING DATE"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:111
+msgid "SEARCH FORM"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:615
+msgid "Direction"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/searchform.php:618
+msgid "NONE"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:2
+msgid "Listing settings"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:7
+msgid "Settings data"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:21
+msgid "Domain different to server domain possible issues with sending email"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:28
+msgid "Sitemap generated"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:28
+msgid "Open sitemap"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:31
+msgid "Cache images removed"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:34
+msgid "All listings removed"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:50
+msgid "Shortcodes and other documentation can be found here"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:52
+msgid "Google Maps doesn't work? You must enter your own API key"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:55
+msgid "Remove all listings"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:56
+msgid "Clear all cache images"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:57
+msgid "Sitemap generate"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:58
+msgid "Download all translation"
+msgstr ""
+
+#: codeigniter/application/views/admin/listing/settings.php:60
+msgid "Copy to all languages"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:3
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:3
+msgid "Edit invoice"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:5
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:5
+msgid "Add invoice"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:12
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:12
+#: codeigniter/application/views/agent/listing/viewinvoice.php:12
+msgid "Invoice data"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:126
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:126
+#: codeigniter/application/views/agent/listing/bankpayment.php:118
+#: codeigniter/application/views/agent/listing/viewinvoice.php:134
+msgid "Package"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addinvoice.php:146
+#: codeigniter/application/views/admin/subscriptions/addinvoice.php:146
+msgid "Transaction details"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:3
+msgid "Edit rank package"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:5
+msgid "Add rank package"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/addpackagerank.php:12
+msgid "Rank package data"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/invoices.php:22
+#: codeigniter/application/views/admin/packagerank/invoices.php:37
+#: codeigniter/application/views/admin/subscriptions/invoices.php:22
+#: codeigniter/application/views/admin/subscriptions/invoices.php:37
+#: codeigniter/application/views/agent/listing/bankpayment.php:63
+#: codeigniter/application/views/agent/listing/invoices.php:30
+#: codeigniter/application/views/agent/listing/invoices.php:45
+#: codeigniter/application/views/agent/listing/viewinvoice.php:79
+msgid "Activated"
+msgstr ""
+
+#: codeigniter/application/views/admin/packagerank/manage.php:2
+msgid "Rank package manage"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:3
+msgid "Edit subscription"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:5
+msgid "Add subscription"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:12
+#: codeigniter/application/views/agent/listing/viewsubscription.php:12
+msgid "Subscription data"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:24
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:26
+#: codeigniter/application/views/admin/subscriptions/manage.php:20
+#: codeigniter/application/views/admin/subscriptions/manage.php:34
+#: codeigniter/application/views/agent/listing/subscriptions.php:18
+#: codeigniter/application/views/agent/listing/subscriptions.php:31
+#: codeigniter/application/views/agent/listing/viewsubscription.php:39
+msgid "Subscription name"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:31
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:33
+#: codeigniter/application/views/agent/listing/viewsubscription.php:46
+msgid "Days limit"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/addsubscription.php:99
+msgid "Woo Subscrptio Item"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/invoices.php:2
+msgid "Subscription Invoices"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/manage.php:2
+msgid "Subscriptions manage"
+msgstr ""
+
+#: codeigniter/application/views/admin/subscriptions/manage.php:21
+#: codeigniter/application/views/admin/subscriptions/manage.php:35
+#: codeigniter/application/views/agent/listing/subscriptions.php:19
+#: codeigniter/application/views/agent/listing/subscriptions.php:32
+msgid "Listing limit"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:3
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:3
+msgid "Edit treefield value"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:5
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:5
+msgid "Add treefield value"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:12
+msgid "Value data"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:28
+msgid "Custom order"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:36
+msgid "Map pin icon"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:143
+msgid "Font icon code"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:173
+msgid "Select icon"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:233
+msgid "Visible fields"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue.php:264
+msgid "Required"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:12
+msgid "Generate map"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:25
+msgid "Map"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:32
+msgid "Current map will be replaced with new on"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:38
+msgid "Random locations for existing listings"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:46
+msgid ""
+"Current map with all related categories will be removed/replaced with new map"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/addvalue_from_svg.php:54
+msgid "Generate"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/categories.php:7
+#: codeigniter/application/views/admin/treefield/locations.php:11
+msgid "Treefield table"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/categories.php:20
+#: codeigniter/application/views/admin/treefield/locations.php:24
+msgid "Level"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/categories.php:38
+#: codeigniter/application/views/admin/treefield/locations.php:42
+msgid "We could not find any"
+msgstr ""
+
+#: codeigniter/application/views/admin/treefield/locations.php:4
+msgid "Add from SVG map"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:3
+#: codeigniter/application/views/agent/calendars/viewreservation.php:5
+msgid "View reservation"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:12
+msgid "Resevation data"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:29
+msgid "Waiting for confirmation by agent/owner"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:33
+msgid "Waiting for payment (please pay by instructions provided below)"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:37
+msgid "Waiting for payment confirmation by agent/owner"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:55
+msgid "Reservation ID"
+msgstr ""
+
+#: codeigniter/application/views/agent/calendars/viewreservation.php:181
+msgid ""
+"Payment completed (Click here after payment transfer to inform owner/agent)"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/addlisting.php:438
+msgid "You have activated rank"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/addlisting.php:438
+msgid "until"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/bankpayment.php:3
+#: codeigniter/application/views/agent/listing/bankpayment.php:5
+msgid "Payment details"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/bankpayment.php:12
+msgid "Payment data"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/bankpayment.php:131
+msgid "Pay to"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/bankpayment.php:142
+msgid "Confirm that invoice is paid"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/bankpayment.php:144
+msgid ""
+"Admin will check bank account after confirmation and activate related "
+"services"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/editmessage.php:3
+msgid "Edit message"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/invoices.php:8
+msgid "WooCommerce Orders and Profile visible here"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:3
+#: codeigniter/application/views/agent/listing/viewinvoice.php:5
+msgid "View invoice"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:23
+#: codeigniter/application/views/agent/listing/viewsubscription.php:23
+msgid "Thank you very much on payment!"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:23
+#: codeigniter/application/views/agent/listing/viewsubscription.php:23
+msgid "Admin will check bank account and activate related services"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:27
+msgid "Thank you on submission, please pay for package."
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:153
+msgid "Pay now"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:160
+msgid "Bank Payment"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:169
+msgid "Webshop Cart"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:178
+msgid "Invoice is disabled"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewinvoice.php:180
+msgid "Invoice is activated"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:3
+#: codeigniter/application/views/agent/listing/viewsubscription.php:5
+msgid "View subscription"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:27
+msgid "Thank you on submission, please pay for subscription."
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:139
+msgid ""
+"This is your current free subscription, feel free to purchase another to get "
+"more features."
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:151
+msgid "This is your current subscription."
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:153
+msgid "Expire in"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:153
+msgid "days"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:153
+msgid "you can pay for extend"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:166
+msgid ""
+"Your subscription expired and need to be extended or changed, you can pay "
+"for extend"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:190
+msgid "Link to current package"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:212
+msgid "Purchase now via WooCommerce"
+msgstr ""
+
+#: codeigniter/application/views/agent/listing/viewsubscription.php:224
+msgid "Purchase now"
+msgstr ""
+
+#: codeigniter/application/views/searchform/secondary/DATE_RANGE.php:3
+#: codeigniter/application/views/searchform/secondary/DATE_RANGE.php:4
+msgid "Fromdate"
+msgstr ""
+
+#: codeigniter/application/views/searchform/secondary/DATE_RANGE.php:8
+#: codeigniter/application/views/searchform/secondary/DATE_RANGE.php:9
+msgid "Todate"
+msgstr ""
+
+#. Name of the plugin
+msgid "Visual Listings - Agency Directory and Management"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Listings Agency Directory and Management plugin with special visual "
+"customization features"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.listing-themes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sandi Winter"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.swit.hr/"
+msgstr ""

@@ -1,0 +1,156 @@
+@charset "UTF-8";
+/*
+ * jQuery File Upload UI Plugin CSS 6.10
+ * https://github.com/blueimp/jQuery-File-Upload
+ *
+ * Copyright 2010, Sebastian Tschan
+ * https://blueimp.net
+ *
+ * Licensed under the MIT license:
+ * http://www.opensource.org/licenses/MIT
+ */
+
+.fileinput-button {
+  position: relative;
+  overflow: hidden;
+  float: left;
+  margin-right: 4px;
+}
+.fileinput-button input {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  transform: translate(-300px, 0) scale(4);
+  font-size: 23px;
+  direction: ltr;
+  cursor: pointer;
+}
+.fileupload-buttonbar .btn,
+.fileupload-buttonbar .toggle {
+  margin-bottom: 5px;
+}
+.files .progress {
+  width: 160px;
+}
+.progress-animated .bar {
+  background: url(../img/progressbar.gif) !important;
+  filter: none;
+}
+.fileupload-loading {
+  position: absolute;
+  left: 50%;
+  width: 128px;
+  height: 128px;
+  background: url(../img/loading.gif) center no-repeat;
+  display: none;
+}
+.fileupload-processing .fileupload-loading {
+  display: block;
+}
+
+/* Fix for IE 6: */
+* html .fileinput-button {
+  line-height: 24px;
+  margin: 1px -3px 0 0;
+}
+
+/* Fix for IE 7: */
+* + html .fileinput-button {
+  padding: 2px 15px;
+  margin: 1px 0 0 0;
+}
+
+@media (max-width: 767px) {
+  .files .btn span {
+    display: none;
+  }
+  .files .preview * {
+    width: 40px;
+  }
+  .files .name * {
+    width: 80px;
+    display: inline-block;
+    word-wrap: break-word;
+  }
+  .files .progress {
+    width: 20px;
+  }
+  .files .delete {
+    width: 60px;
+  }
+}
+
+
+/* Files start */
+
+.files-list 
+{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%; 
+}
+.files-list li 
+{
+    margin: 3px 3px 3px 0; 
+    padding: 1px; 
+    display:block;
+    float: left; 
+    width: 164px; 
+    height: 175px;
+    border:1px solid #E5E5E5;
+    cursor: move;
+    position:relative;
+}
+
+.files-list li.nobuttons
+{
+    height: 155px;
+}
+
+.files-list li .preview
+{
+    width: 160px; 
+    height: 120px;
+    text-align:center;
+    display:block;
+    overflow: hidden;
+    padding: 2px;
+}
+
+.files-list li .filename
+{
+    text-align:center;
+    max-width:160px;
+    padding: 0px 0px 2px 0px;
+}
+
+.files-list li .options-container
+{
+    text-align:center;
+}
+
+.files-list li:hover{
+    background: #F5F5F5;
+}
+
+.files-list li div.progress, .files-list li div.error
+{
+    position:absolute;
+    top:60px;
+    left:2px;
+}
+
+.fileupload-buttonbar .col-md-7
+{
+    padding-left:0px;
+}
+
+.upload-files-widget input[type="checkbox"] {
+    margin: 0px 0 0;
+}
+
+/* Files End */

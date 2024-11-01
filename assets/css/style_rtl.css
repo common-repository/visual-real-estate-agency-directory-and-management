@@ -1,0 +1,54 @@
+#dolly {
+    float: none;
+}
+
+.bootstrap-wrapper .table>thead>tr>th {
+    text-align: right;
+}
+
+body .bootstrap-wrapper .nav-tabs>li,
+body .box.rte [class*="col-"],
+body .dataTables_wrapper [class*="col-"],
+body .fileupload-buttonbar [class*="col-"],
+form.form-horizontal [class*="col-"] {
+    float: right;
+}
+
+body .fileupload-buttonbar {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+body .bootstrap-wrapper .form-horizontal .control-label {
+    text-align: left;
+}
+
+body .bootstrap-wrapper .pull-right {
+    float: left!important;
+}
+
+body ol.sortable ol {
+    margin: 0 25px 0 0 ;
+}
+
+body .fileinput-button {
+    float: right;
+    margin-right: 0;
+    margin-left: 4px;
+}
+
+body .files-list li {
+    float: right;
+}
+
+.form-horizontal.white-popup-block * {
+    text-align: right;
+}
+
+.form-horizontal.white-popup-block .control-group {
+    margin-bottom: 5px;
+}
+
+.leaflet-container {
+    direction: ltr !important;
+}
